@@ -1,11 +1,11 @@
 - title: Program
-  url  : program/
+  url  : /program/
   items:
   - title: Activities
-    url  : program/activities
+    url  : /program/activities
   - title: Lightning trainings
-    url  : program/lightning-trainings
+    url  : /program/lightning-trainings
 - title: Venue
-  url  : venue/
+  url  : /venue/
 - title: About
-  url  : about/
+  url  : /about/
