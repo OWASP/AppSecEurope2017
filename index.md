@@ -7,9 +7,8 @@ layout: default
 
 This is the conference front page
 
-
 ## Sponsors
-<ul>
+<ul class="sponsors">
 {% for sponsor in site.data.sponsors %}
 	<li><img src="assets/images/{{sponsor.logo}}"> {{sponsor.name}}</li>
 {% endfor %}
