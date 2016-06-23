@@ -1,0 +1,11 @@
+- title: Program
+  url  : /program/
+  items:
+  - title: Activities
+    url  : /program/activities
+  - title: Lightning trainings
+    url  : /program/lightning-trainings
+- title: Venue
+  url  : /venue/
+- title: About
+  url  : /about/

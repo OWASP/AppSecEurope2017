@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{ page.title }}</title>
+	<link rel="stylesheet" type="text/css" href="assets/style/style.css" />
+</head>
+<body>
+  <header role="banner">
+    <h1><a href="/">OWASP AppSec Europe 2017</a></h1>
+    <nav role="navigation">
+    	<ul class="navigation">
+    		{% for menu in site.data.menus %}
+    			<li><a href="{{menu.url}}">{{menu.title}}</a><ul>
+    				{% for item in menu.items %}
+    					<li><a href="{{item.url}}">{{item.title}}</a></li>
+    				{% endfor %}
+    			</ul></li>
+    		{% endfor %}
+    	</ul>
+    </nav>
+  </header>
+
+{{content}}
+
+
+</body>
+</html>
