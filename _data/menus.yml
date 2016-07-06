@@ -6,7 +6,11 @@
     url  : program/activities
   - title: Lightning trainings
     url  : program/lightning-trainings
-- title: Venue
-  url  : venue/
+- title: Belfast
+  items:
+  - title: Venue
+    url  : belfast/venue
+  - title: The City
+    url  : belfast/
 - title: About
   url  : about/
