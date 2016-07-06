@@ -132,6 +132,7 @@ nav {
 	margin: 0em 0em;
 	position: relative;
 	overflow: hidden;
+	font-size: 120%;
 
 	ul {
 		margin: 0;
@@ -150,7 +151,7 @@ nav {
 			text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);
 			color: #fff;
 			display: block;
-			background-size: contain;
+			background-size: cover;
 			background-position: center center;
 			background-repeat: no-repeat;
 		}
