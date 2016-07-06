@@ -15,7 +15,7 @@
 <header>
 	<a href="{{baseUrl}}"><img src="{{baseUrl}}assets/images/A1_belfast_2017.jpg"></a>
 	<nav>
-		<a class="burger" href="#">☰</a>
+		<a class="burger" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle" data-toggle="dropdown">☰</a>
 		<ul class="nav navbar-nav">
 		{% for menu in site.data.menus %}
 			{% if menu.items %}
