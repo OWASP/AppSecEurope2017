@@ -41,6 +41,7 @@ header img {
 .main {
 	margin-top: 1em;
 	min-height: 20em;
+	padding: 0em 0.5em;
 }
 
 nav, .main, footer {
@@ -59,6 +60,7 @@ nav {
 
 	.burger {
 		display: none;
+		margin-left: 0.1em;
 	}
 
 	a {
