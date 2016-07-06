@@ -4,4 +4,4 @@ title: Belfast
 
 # {{page.title}}
 
-Pictures and images of the city
+Pictures of and things to do in the city
