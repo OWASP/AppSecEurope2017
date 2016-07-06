@@ -197,7 +197,7 @@ footer {
 			display: none;
 		}
 
-		&:hover > ul {
+		&:hover > ul, .burger:hover + ul {
 			display: block;	
 		}
 
