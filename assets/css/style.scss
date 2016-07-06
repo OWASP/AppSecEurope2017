@@ -87,6 +87,11 @@ nav {
 			padding: 0;
 			transition: all linear 0.1s;
 		
+			&.dropdown > a:after {
+				content: "\25be";
+				margin-left: 0.25em;
+			}
+
 			> ul {
 				display: none;
 				position: absolute;
