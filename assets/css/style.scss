@@ -114,15 +114,17 @@ nav {
 
 
 
-.sellingpoints {
+.main .sellingpoints {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: flex-start;
-	padding-top: 2em 0em;
-
+	list-style: none;
+	margin: 0;
+	padding: 2em 0em;
 
 	> li {
 		width: 33%;
+		flex: 0 1 auto;
 		box-sizing: border-box;
 		padding: 1em;
 		text-align: center;
@@ -176,6 +178,16 @@ nav {
 	}
 }
 
+.main {
+	ul { 
+		list-style: circle;
+		margin: 0.5em 1.25em;
+	}
+	p {
+		margin-bottom: 0.5em;
+	}
+}
+
 
 footer {
 	text-align: center;
@@ -192,7 +204,7 @@ footer {
 }
 
 @media (max-width: 500px) {
-	.sellingpoints {
+	.main .sellingpoints {
 		display: block;
 		
 		li {
