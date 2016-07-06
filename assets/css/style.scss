@@ -7,7 +7,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	font-family: arial;
+	font-family: 'Lato', sans-serif;
 	font-size: 90%;
 }
 
@@ -51,11 +51,11 @@ nav, .main, footer {
 
 nav {
 	margin-top: -2.5%;
-	border-top: 1px solid #ddd;
+	xborder-top: 1px solid #ddd;
 	border-bottom: 1px solid #ddd;
 	z-index: 2;
 	position: relative;
-	font-size: 90%;
+	font-size: 80%;
 
 	.burger {
 		display: none;
@@ -80,7 +80,7 @@ nav {
 		padding: 0;
 		
 		> li {
-			width: 10em;
+			width: 8em;
 			position: relative;
 			flex: 0 1 auto;
 			margin: 0;
@@ -120,7 +120,7 @@ nav {
 	justify-content: flex-start;
 	list-style: none;
 	margin: 0;
-	padding: 2em 0em;
+	padding: 1em 0em;
 
 	> li {
 		width: 33%;
@@ -174,7 +174,7 @@ nav {
 		top: 35%;
 		text-align: center;
 		background: rgba(0,0,0,0.3);
-		padding: 0.5em;
+		padding: 0.5em 0em;
 	}
 }
 
