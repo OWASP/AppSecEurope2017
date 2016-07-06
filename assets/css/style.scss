@@ -214,9 +214,12 @@ footer {
 		}
 	}
 	nav {
+		font-size: 100%;
+
 		.burger {
 			display: block;
 			padding: 0.5em;
+			margin-left: 0em;
 		}
 
 		> ul {
