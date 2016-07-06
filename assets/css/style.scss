@@ -14,6 +14,9 @@ body {
 a {
 	text-decoration: none;
 }
+a {
+	color: #000;
+}
 
 h1 {
 	font-size: 170%;
@@ -52,6 +55,7 @@ nav {
 	border-bottom: 1px solid #ddd;
 	z-index: 2;
 	position: relative;
+	font-size: 90%;
 
 	.burger {
 		display: none;

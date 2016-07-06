@@ -20,7 +20,7 @@
 		{% for menu in site.data.menus %}
 			{% if menu.items %}
 			  <li class="dropdown">
-			    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}<span class="caret"></span></a>
+			    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
 			      <ul class="dropdown-menu">
 			      {% for item in menu.items %}
 			          <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
