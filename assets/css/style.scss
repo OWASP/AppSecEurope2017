@@ -38,11 +38,6 @@ header img {
 	padding-bottom: -20px;
 }
 
-.main {
-	margin-top: 1em;
-	min-height: 20em;
-	padding: 0em 0.5em;
-}
 
 nav, .main, footer {
 	margin-left: 3%;
@@ -116,28 +111,6 @@ nav {
 
 
 
-.main .sellingpoints {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: flex-start;
-	list-style: none;
-	margin: 0;
-	padding: 1em 0em;
-
-	> li {
-		width: 33%;
-		flex: 0 1 auto;
-		box-sizing: border-box;
-		padding: 1em;
-		text-align: center;
-	}
-
-	h2 {
-		text-transform: uppercase;
-	}
-}
-
-
 
 .carousel {
 	background: #000;
@@ -181,12 +154,37 @@ nav {
 }
 
 .main {
+	margin-top: 1em;
+	min-height: 20em;
+	padding: 0em 0.5em;
+
 	ul { 
 		list-style: circle;
 		margin: 0.5em 1.25em;
 	}
 	p {
 		margin-bottom: 0.5em;
+	}
+
+	.sellingpoints {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-start;
+		list-style: none;
+		margin: 0;
+		padding: 1em 0em;
+
+		> li {
+			width: 33%;
+			flex: 0 1 auto;
+			box-sizing: border-box;
+			padding: 1em;
+			text-align: center;
+		}
+
+		h2 {
+			text-transform: uppercase;
+		}
 	}
 }
 
