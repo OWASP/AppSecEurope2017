@@ -1,5 +1,5 @@
 ---
-title: Acitivites
+title: Activities
 ---
 
 # {{page.title}}
