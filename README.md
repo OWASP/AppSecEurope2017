@@ -1,6 +1,6 @@
 # demo-site
 
-See branch https://github.com/OWASP/demo-site/tree/gh-pages
+See branch https://github.com/OWASP/AppSecEurope2017/tree/gh-pages
 
 ## Jekyll
 
