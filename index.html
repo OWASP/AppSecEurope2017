@@ -23,6 +23,15 @@ title: OWASP AppSec Europe 2017
     </li>  
   </ul>
 
+  <ul class="keynoters">
+    {% for item in site.data.keynoters %}
+      <li>
+        <h3>{{item.name}}</h3>
+        <p>{{item.description}}</p>
+        <img src="assets/images/mask.png" class="masked" style="background-image: url(assets/images/{{item.image}})">
+      </li>
+    {% endfor %} 
+  </ul>
 
 
 

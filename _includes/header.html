@@ -64,8 +64,8 @@
   {% for item in site.data.carousel %}
     <li style="width: {{ 100.0 | divided_by: carousel_count }}%; background-image: url({{baseUrl}}assets/images/{{item.image}})">
       <div>
-        <h2>{{item.title}}</h2>
-        <p>{{item.description}}</p>
+        <p>{{item.title}}</p>
+        <h2>{{item.description}}</h2>
       </div>
     </li>
   {% endfor %}

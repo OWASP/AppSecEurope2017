@@ -8,7 +8,7 @@ $gray: #f2f2f2;
 
 body {
 	margin: 0;
-	padding: 0;
+	padding: 0% 3%;
 	font-family: 'Lato', sans-serif;
 	font-size: 90%;
 }
@@ -38,6 +38,19 @@ h2 {
 }
 
 
+
+h3 {
+	font-size: 120%;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+	color: $orange;
+}
+
+sup {
+	font-size: 75%;
+	vertical-align: top;
+}
+
 header a {
 	img:nth-child(1) {
 		width: 17%;
@@ -51,10 +64,7 @@ header a {
 }
 
 
-header, .main, footer, .carousel {
-	margin-left: 3%;
-	margin-right: 3%;
-}
+
 
 
 nav {
@@ -159,13 +169,19 @@ nav {
 	div {
 		position: absolute;
 		width: 100%;
-		top: 35%;
-		text-align: center;
+		top: 5%;
+		xleft: 3%;
+		xtext-align: center;
 		background: rgba(0,0,0,0.3);
 		padding: 0.5em 0em;
+		xdisplay: inline-block;
+		padding: 3%;
 	}
 	h2 {
 		color: #fff;
+		font-size: 180%;
+		margin-bottom: 0;
+		margin-top: 0.5em;
 	}
 }
 
@@ -204,8 +220,35 @@ nav {
 			text-transform: uppercase;
 			font-weight: bold;
 		}
+
+
+	}
+	.keynoters {
+		color: $blue;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-start;
+		list-style: none;
+		margin: 0;
+		padding: 1em 0em;
+
+		> li {
+			width: 25%;
+			flex: 0 1 auto;
+			box-sizing: border-box;
+			padding: 1em;
+			text-align: center;
+		}
+
+		img {
+			width: 80%;
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-size: cover;			
+		}
 	}
 }
+
 
 
 footer {
@@ -224,11 +267,16 @@ footer {
 }
 
 @media (max-width: 500px) {
-	.main .sellingpoints {
-		display: block;
-		
-		li {
-			width: 100%;
+	body {
+		padding: 0;
+	} 
+
+	.main {
+		.sellingpoints, .keynoters {
+			display: block;		
+			li {
+				width: 100%;
+			}
 		}
 	}
 	nav {
