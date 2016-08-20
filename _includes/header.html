@@ -19,12 +19,12 @@
 		<img src="{{baseUrl}}assets/images/A1_belfast_2017.jpg">
 	</a>
 	<nav>
-		<a class="burger" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle" data-toggle="dropdown">☰</a>
+		<a href="#" class="burger" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle" data-toggle="dropdown">☰</a>
 		<ul class="nav navbar-nav">
 		{% for menu in site.data.menus %}
 			{% if menu.items %}
 			  <li class="dropdown">
-			    <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
+			    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
 			      <ul class="dropdown-menu">
 			      {% for item in menu.items %}
 			          <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
