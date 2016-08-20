@@ -2,37 +2,7 @@
 layout: front
 title: OWASP AppSec Europe 2017
 ---
-{% assign carousel_count = site.data.carousel | size %}
-<style>
-@keyframes carousel{
-  {% assign steps = carousel_count | minus: 1  | times: 2 %}
-  {% assign step_picture = 8.0 %}
-  {% assign step_transition = 1 %}
-  {% assign step_total = step_picture | plus: step_transition %}
-  {% assign step_transition_fraction =  step_transition | divided_by: step_total %}
-  {% for i in (1..steps) %}
-    {% assign step_sub = steps | divided_by: 2 | minus: i | plus: 1%}
-    {% if step_sub > 0 %}{% assign step_sub = step_sub | times: -1 %}{% endif %}
-    {% assign step_location = steps | divided_by: 2 | plus: step_sub | times: -100  %}
-    {{ i | minus: 1 | times:100 | divided_by: steps }}%   { left: {{ step_location }}%; }
-    {{ i | minus: step_transition_fraction | times:100 | divided_by: steps }}%   { left: {{ step_location }}%; }
-  {% endfor %}
-    100% { left: 0%; }
-</style>
 
-<div class="carousel">
-  <ul style="width: {{ carousel_count | times: 100 }}%; animation: carousel {{ carousel_count | times: step_total }}s infinite">
-  {% for item in site.data.carousel %}
-    <li style="width: {{ 100.0 | divided_by: carousel_count }}%; background-image: url(assets/images/{{item.image}})">
-      <!-- img src="assets/images/{{item.image}}" -->
-      <div>
-        <h2>{{item.title}}</h2>
-        <p>{{item.description}}</p>
-      </div>
-    </li>
-  {% endfor %}
-  </ul>
-</div>
 
 <div class="main">
 

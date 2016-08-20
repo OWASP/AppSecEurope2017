@@ -2,7 +2,9 @@
 ---
 @import "reset.css";
 
-
+$orange: #ee4229;
+$blue: #1f5e83;
+$gray: #f2f2f2;
 
 body {
 	margin: 0;
@@ -22,32 +24,43 @@ h1 {
 	font-size: 170%;
 	font-weight: bold;
 	margin-bottom: 0.5em;
+	background: #000;
+	color: #fff;
+	display: inline-block;
+	padding: 0.5em 1em;
 }
 
 h2 {
 	font-size: 150%;
 	font-weight: bold;
 	margin-bottom: 0.5em;
+	color: $orange;
 }
 
 
-header img {
-	width: 98%;
-	height: auto;
-	z-index: 1;
-	padding-bottom: -20px;
+header a {
+	img:nth-child(1) {
+		width: 17%;
+		margin-left: 2em;
+	}
+	img:nth-child(2) {
+		width: 47%;
+		float: right;
+		margin-top: 2%;
+	}
 }
 
 
-nav, .main, footer {
+header, .main, footer, .carousel {
 	margin-left: 3%;
 	margin-right: 3%;
 }
 
 
 nav {
-	margin-top: -2.5%;
-	xborder-top: 1px solid #ddd;
+	padding-left: 2em;
+	font-weight: bold;
+	background: $gray;
 	border-bottom: 1px solid #ddd;
 	z-index: 2;
 	position: relative;
@@ -59,6 +72,7 @@ nav {
 	}
 
 	a {
+		color: $blue;
 		text-decoration: none;
 		display: block;
 		padding: 0.5em;
@@ -114,8 +128,7 @@ nav {
 
 .carousel {
 	background: #000;
-	width: 100%;
-	margin: 0em 0em;
+	xwidth: 100%;
 	position: relative;
 	overflow: hidden;
 	font-size: 120%;
@@ -151,12 +164,15 @@ nav {
 		background: rgba(0,0,0,0.3);
 		padding: 0.5em 0em;
 	}
+	h2 {
+		color: #fff;
+	}
 }
 
 .main {
-	margin-top: 1em;
+	margin-top: 0em;
 	min-height: 20em;
-	padding: 0em 0.4em;
+	padding: 0em 2em;
 	line-height: 1.5em;
 
 	ul { 
@@ -168,6 +184,7 @@ nav {
 	}
 
 	.sellingpoints {
+		color: $blue;
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: flex-start;
@@ -185,6 +202,7 @@ nav {
 
 		h2 {
 			text-transform: uppercase;
+			font-weight: bold;
 		}
 	}
 }
@@ -195,12 +213,13 @@ footer {
 	padding: 1em;
 	margin-top: 2em;
 	font-size: 80%;
-	border-top: 1px solid #eee;
+
 
 	div {
-		display: inline;
-		padding-right: 1em;
-		padding-left: 1em;
+		display: inline-block;
+		background: #000;
+		color: #fff;
+		padding: 1em 2em;
 	}
 }
 
@@ -214,7 +233,7 @@ footer {
 	}
 	nav {
 		font-size: 100%;
-
+		padding: 0;
 		.burger {
 			display: block;
 			padding: 0.5em;
