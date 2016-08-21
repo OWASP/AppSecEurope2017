@@ -281,12 +281,22 @@ footer {
 		padding: 0;
 	} 
 
+	header a {
+		img:nth-child(1) {
+			margin-left: 1em;
+		}
+	}
+
+
 	.main {
 		.sellingpoints, .keynoters {
 			display: block;		
 			li {
 				width: 100%;
 			}
+		}
+		.keynoters img {
+			width: 50%;
 		}
 	}
 	nav {
