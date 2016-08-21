@@ -1,11 +1,5 @@
-- title: Program
-  items:
-  - title: Full program
-    url  : program/
-  - title: Activities
-    url  : program/activities
-  - title: Lightning trainings
-    url  : program/lightning-trainings
+- title: Become a sponsor
+  url  : sponsoring
 - title: Belfast
   items:
   - title: Venue

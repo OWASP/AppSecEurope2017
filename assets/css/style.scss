@@ -108,7 +108,7 @@ nav {
 		padding: 0;
 		
 		> li {
-			width: 8em;
+			min-width: 8em;
 			position: relative;
 			flex: 0 1 auto;
 			margin: 0;
@@ -203,7 +203,10 @@ nav {
 		margin: 0.5em 1.25em;
 	}
 	p {
-		margin-bottom: 0.5em;
+		margin-bottom: 1em;
+	}
+	strong {
+		font-weight: bold;
 	}
 
 	.sellingpoints {
