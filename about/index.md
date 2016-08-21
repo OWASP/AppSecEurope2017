@@ -4,9 +4,26 @@ title: About
 
 # {{page.title}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lobortis malesuada purus, non egestas sapien condimentum et. Praesent porttitor orci ut interdum suscipit. Ut lacinia nibh in tellus fermentum, at vehicula urna consequat. Quisque feugiat molestie erat, id varius tortor tempus in. Ut scelerisque non erat et bibendum. Donec sollicitudin metus id rutrum pulvinar. Vestibulum ligula tortor, auctor euismod hendrerit eget, eleifend non diam. Sed eu mi in sem scelerisque fermentum. Proin egestas tempor eros, quis pellentesque dui sagittis at. Aenean a felis ut ligula bibendum fringilla. Integer massa enim, vulputate in sapien quis, bibendum tempus quam. Fusce ullamcorper mollis felis eget hendrerit. Nunc malesuada ut diam sed tempus. Nunc eget dui sit amet ante fringilla faucibus. Curabitur non felis quis velit aliquam pharetra eu porttitor lorem.
+Never been to an OWASP AppSec conference? Here’s a bit of info to provide some background.
+<img src="../assets/images/owasp_logo.png" style="float:right; width: 10em; margin-left: 2em;">
 
-Fusce commodo ipsum non arcu mattis, in auctor magna condimentum. Donec vitae scelerisque tortor. Suspendisse potenti. Donec dictum mattis pharetra. Cras eu nulla ac lorem pharetra mollis. Nullam enim risus, tempus non tincidunt vel, molestie sed elit. Duis vitae diam nulla. Morbi erat diam, pretium eu aliquet a, mattis id eros.
+## What is OWASP?
+OWASP is a nonprofit community organization with 200 chapters in over 100 countries around the world. Our mission is to make software security visible, so that individuals and organizations worldwide can make informed decisions about true software security risks. Our wiki has a wealth of security knowledge and we are well known for many of our influential security projects. The OWASP AppSec conferences represent our largest outreach efforts to advance our mission of spreading security knowledge. These events help fund the non-profit organization and provide a great learning experience for everyone involved. Many thanks to our conference sponsors, OWASP foundation sponsors, and most importantly the OWASP community!
+
+## What Happens at an AppSec Europe Conference?
+
+* Technical talks by experts in security, devops and cloud
+* Panels to debate tough topics
+* Training sessions for hands on learning in top security areas
+* Keynotes from industry leaders
+* Vendor booths to promote the latest advances in security technology
+* A variety of other activities such as recruiting fair, capture the flag, security tool training, and more
+
+Check out the previous conferences to get even more information on what to expect.
+
+* [OWASP AppSec Europe 2016](https://2016.appsec.eu/)
+* [OWASP AppSec Europe 2015](https://2015.appsec.eu/)
+* [OWASP AppSec Europe 2014](https://2014.appsec.eu/)
 
 
 

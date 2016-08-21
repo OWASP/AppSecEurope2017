@@ -17,7 +17,10 @@ a {
 	text-decoration: none;
 }
 a {
-	color: #000;
+	color: $blue;
+}
+a:hover {
+	text-decoration: underline;
 }
 
 h1 {
@@ -34,6 +37,7 @@ h2 {
 	font-size: 150%;
 	font-weight: bold;
 	margin-bottom: 0.5em;
+	margin-top: 1em;
 	color: $orange;
 }
 
@@ -88,7 +92,10 @@ nav {
 		padding: 0.5em;
 	
 		&:hover {
-			font-weight: bold;
+			xfont-weight: bold;
+			text-decoration: none;
+			background: $blue;
+			color: #fff;
 		}
 	}
 
@@ -254,7 +261,7 @@ nav {
 footer {
 	text-align: center;
 	padding: 1em;
-	margin-top: 2em;
+	margin-top: 3em;
 	font-size: 80%;
 
 
