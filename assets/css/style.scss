@@ -112,7 +112,7 @@ nav {
 			position: relative;
 			flex: 0 1 auto;
 			margin: 0;
-			padding: 0;
+			padding: 0em 1em 0em 0em;
 			transition: all linear 0.1s;
 		
 			&.dropdown > a:after {
@@ -156,7 +156,7 @@ nav {
 		list-style:none;
 		position:relative;
 	 	overflow:hidden;
-	 	height: 20em;
+	 	height: 16em;
 
 		li {
 			margin: 0;
