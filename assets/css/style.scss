@@ -248,10 +248,13 @@ nav {
 			box-sizing: border-box;
 			padding: 1em;
 			text-align: center;
+			p {
+				height: 3em;
+			}
 		}
 
 		img {
-			width: 80%;
+			width: 60%;
 			background-position: center center;
 			background-repeat: no-repeat;
 			background-size: cover;			
