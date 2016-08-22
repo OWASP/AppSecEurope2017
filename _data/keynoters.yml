@@ -1,12 +1,12 @@
-- image: knobloch.png
-  name: Martin Knobloch
-  description: OWASP chapter leader
-- image: knobloch.png
-  name: Martin Knobloch
-  description: OWASP chapter leader
-- image: knobloch.png
-  name: Martin Knobloch
-  description: OWASP chapter leader
-- image: knobloch.png
-  name: Martin Knobloch
-  description: OWASP chapter leader
+- image: Charlie-Miller.jpg
+  name: Charlie Miller
+  description: Bugs ruin everything
+- image: alessandro.jpg
+  name: Alessandro Perilli
+  description: Can Security Keep Up the Pace with Frictionless IT?
+- image: mike_west.png
+  name: Mike West
+  description: Hardening the Web Platform
+- image: troyhunt.jpg
+  name: Troy Hunt
+  description: 50 Shades of AppSec
