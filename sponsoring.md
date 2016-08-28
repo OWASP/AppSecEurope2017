@@ -9,7 +9,7 @@ title: Become a sponsor
 OWASP’s Global AppSec Conferences are its flagship outreach effort.  Each year OWASP hosts two global AppSec conferences:
 
 * OWASP AppSec USA
-* OWASP ApPSec Europe
+* OWASP AppSec Europe
 
 OWASP events attract a worldwide audience interested in “what’s next?” — as an OWASP Conference sponsor, your brand will be included as an answer.
 
