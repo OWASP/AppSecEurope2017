@@ -7,4 +7,10 @@
   - title: The City
     url  : belfast/
 - title: About
-  url  : about/
+  items:
+  - title: The Conference
+    url  : about/
+  - title: The Team
+    url  : about/team
+  - title: Contact
+    url  : about/contact
