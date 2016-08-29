@@ -17,7 +17,7 @@ title: Belfast
 
 ## History
 
-In the 18th Century Belfast came to prominence as an industrial centre and merchant city. It's location atthe head of the Belfast Lough helped the shipyards flourish, at one point employing over 35,000 men. And it was a Belfast shipyard, Harland & Wolff, that built the world-renowned SS Titanic, which is commemorated by the stunning Titanic Centre, where we have dinner on the Thursday night of theConference.
+In the 18th Century Belfast came to prominence as an industrial centre and merchant city. It's location atthe head of the Belfast Lough helped the shipyards flourish, at one point employing over 35,000 men. And it was a Belfast shipyard, Harland & Wolff, that built the world-renowned SS Titanic, which is commemorated by the stunning Titanic Centre, where we have dinner on the Thursday night of the Conference.
 
 ## Technology
 
