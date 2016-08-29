@@ -4,6 +4,17 @@ title: Belfast
 
 # {{page.title}}
 
+<aside>
+<ul>
+<li>Leading US application security companies such as WhiteHat Security, Rapid7 and AlertLogic, many locating their first international office in Belfast.</li>
+<li>The Centre for Secure IT, established by Queen’s University Belfast, is the UK’s largest cyber security research centre and recognized by GCHQ.</li>
+<li>A large proportion of software industry workers in Belfast are employed in multi-national companies and geographically distributed teams, and therefore have a global mindset.</li>
+<li>OWASP works with existing networks to engage with women and young people, including Women Who Code, Django Girls, Women Techmakers, Generation Innovation. Many events also engage with schools to offer competitions and seminars.</li>
+<li>Northern Ireland is fast becoming a global cyber security hub, with specialist university research centres and an impressive cluster of global cyber security investors. Companies in the region deliver expertise on advanced persistent threats to national security, critical infrastructure, capital markets, ecommerce and child safety online.</li>
+</ul>
+</aside>
+
+
 ## History
 
 In the 18th Century Belfast came to prominence as an industrial centre and merchant city. It's location atthe head of the Belfast Lough helped the shipyards flourish, at one point employing over 35,000 men. And it was a Belfast shipyard, Harland & Wolff, that built the world-renowned SS Titanic, which is commemorated by the stunning Titanic Centre, where we have dinner on the Thursday night of theConference.
