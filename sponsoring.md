@@ -5,18 +5,15 @@ title: Become a sponsor
 
 ## Why you should sponsor the AppSec EU 2017 in Belfast?
 
-OWASP’s Global AppSec Conferences are its flagship outreach effort.  Each year OWASP hosts four global AppSec conferences:
+**OWASP’s Global AppSec Conferences are its flagship outreach effort.  Each year OWASP hosts four global AppSec conferences:**
 
-* North America
-* South America
-* Europe
-* Asia/Pacific
+<img alt="World map with AppSec North America, South America, Europe and Asia/Pacific" src="assets/images/world_belfast.svg" class="worldmap">
 
 With 45,000 OWASP participants globally, AppSec EU is the must-attend Application Security event in Europe for 2017. Building on the success of AppSecEU 2016 held in Rome, AppSecEU 2017 will be held in the heart of Belfast, the bustling capital city of Northern Ireland.
 
 AppSecEU 2017 will have a special focus on engaging with businesses locally and from across the UK and Ireland, driven through business partnerships. The conference will be hosting a pre-conference drinks for delegates and non-delegates, businesses, government and technology thought-leaders which will offer sponsors a unique opportunity to interact at a personal level.
 
-## Who attends AppSec EU 2017?
+### Who attends AppSec EU 2017?
 
 OWASP has a strong open and global community with more than 45.000 participants, more than65 organisational supporters and over 60 academic supporters via 200 local chapters across 6 continents in 117 countries.
 
@@ -26,7 +23,7 @@ OWASP Appsec Europe 2017 provides sponsors with exclusive access to its audience
 
 <q>How can I sponsor the AppSec EU 2017?</q>
 
-## OWASP offers a variety of opportunities for advertising and logo placement at their AppSec conferences:
+### OWASP offers a variety of opportunities for advertising and logo placement at their AppSec conferences:
 
 * The conference hosts a sponsor hall where vendors can place stalls and engage with delegates and business. The sponsor hall opens on the Wednesday night for the pre-conference drinks reception, continuing through the main conference on Thursday and Friday.
 * Advertising banners, both internal and external to the venue, are available to display your brand and support of OWASP. External advertisements are erected throughout the entire week of the conference.

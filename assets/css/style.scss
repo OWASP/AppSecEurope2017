@@ -286,6 +286,11 @@ nav {
 	}
 }
 
+img.worldmap {
+	margin: -10% -5% -10% 0%; 
+	width: 100%;
+	min-width: 30em;
+}
 
 q {
 	position: relative;
@@ -340,6 +345,12 @@ footer {
 		img:nth-child(1) {
 			margin-left: 1em;
 		}
+	}
+
+	img.worldmap {
+		margin: -10% 0% -10% 0%; 
+		width: 100%;
+		min-width: auto;
 	}
 
 
