@@ -256,8 +256,6 @@ nav {
 			text-transform: uppercase;
 			font-weight: bold;
 		}
-
-
 	}
 	.keynoters {
 		color: $blue;
@@ -284,6 +282,34 @@ nav {
 			background-position: center center;
 			background-repeat: no-repeat;
 			background-size: cover;			
+		}
+	}
+}
+
+
+q {
+	position: relative;
+	padding: 0.5em 1em;
+	margin: 1em 0 1em;
+	color: #fff;
+	background: $blue;
+	display: inline-block;
+	font-size: 1.2em;
+	&:after {
+		content: "";
+    position: absolute;
+    bottom: -0.9em;
+    right: 2em;
+    border-width: 1em 0.5em 0 0.5em;
+    border-style: solid;
+    border-color: $blue transparent;
+    display: block;
+    width: 0;
+  }
+	&.orange {
+		background: $orange;
+		&:after {
+			border-color: $orange transparent;
 		}
 	}
 }

@@ -24,9 +24,9 @@ The conference is expected to draw over 800 attendees from the UK/Ireland and a
 
 OWASP Appsec Europe 2017 provides sponsors with exclusive access to its audience through a limited number of exhibit spaces.
 
-## How can I sponsor AppSec EU 2017?
+<q>How can I sponsor the AppSec EU 2017?</q>
 
-OWASP offers a variety of opportunities for advertising and logo placement at their AppSec conferences:
+## OWASP offers a variety of opportunities for advertising and logo placement at their AppSec conferences:
 
 * The conference hosts a sponsor hall where vendors can place stalls and engage with delegates and business. The sponsor hall opens on the Wednesday night for the pre-conference drinks reception, continuing through the main conference on Thursday and Friday.
 * Advertising banners, both internal and external to the venue, are available to display your brand and support of OWASP. External advertisements are erected throughout the entire week of the conference.
@@ -36,7 +36,7 @@ Any proceeds from sponsorship support the mission of the OWASP Foundation (501c3
 
 Read our sponsorship flyer with all the detailed information about the sponsorship levels, items and prices.
 
-Contact us today for more information:
+**Contact us today for more information:**
 
 * [Gary Robinson](mailto:gary.robinson@owasp.org) (OWASP Belfast)
 * [Kelly Santalucia](mailto:kelly.santalucia@owasp.org) (OWASP Global Membership and Business Liaison)
