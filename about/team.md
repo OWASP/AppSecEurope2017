@@ -6,14 +6,14 @@ title: The Team
 
 ## The Conference Team
 
+* Gary Robinson
+* Michelle Simpson
+* Owen Pendlebury
 * Thomas Boyle
 * Siobhan Gallagher
 * Martin Knobloch
 * David Mathy
-* Owen Pendlebury
 * Erlend Oftedal
-* Gary Robinson
-* Michelle Simson
 
 ## OWASP Staff
 
