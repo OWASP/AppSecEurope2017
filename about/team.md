@@ -23,7 +23,7 @@ title: The Conference Team
 * Kate Hartmann (Operations Director)
 * Hugo Costa (Graphic Design)
 * Alison Shrader (Accounting)
-* Tiffany Long
+* Tiffany Long (Community Manager)
 
 
 
