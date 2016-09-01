@@ -1,8 +1,10 @@
 ---
-title: The Conference Team
+title: The Team
 ---
 
 # {{page.title}}
+
+## The Conference Team
 
 * Thomas Boyle
 * Siobhan Gallagher
@@ -13,17 +15,16 @@ title: The Conference Team
 * Gary Robinson
 * Michelle Simson
 
-# Owasp Staff
+## OWASP Staff
 
-* Claudia Aviles-Casanovas (Project Coordinator)
-* Matt Tesauro (IT)
-* Paul Ritchie (Owasp Executive Director)
-* Laura Gray (Event Manager)
-* Kelly Santalucia (Membership and Business Liaison)
-* Kate Hartmann (Operations Director)
-* Hugo Costa (Graphic Design)
-* Alison Shrader (Accounting)
-* Tiffany Long (Community Manager)
+* Claudia Aviles-Casanovas - Project Coordinator
+* Matt Tesauro - IT
+* Laura Gray - Event Manager
+* Kelly Santalucia - Membership and Business Liaison
+* Kate Hartmann - Operations Director
+* Hugo Costa - Graphic Design
+* Alison Shrader - Accounting
+* Tiffany Long - Community Manager
 
 
 
