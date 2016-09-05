@@ -15,4 +15,3 @@ The Waterfront Hall is situated beside The Hilton Hotel, our main accommodation 
 [http://www.waterfront.co.uk/](http://www.waterfront.co.uk/)
 
 <img src="../assets/images/waterfront-hilton3.jpg" style="width: 100%; display: block">
-Picture from [http://www.waterfront.co.uk/](http://www.waterfront.co.uk/)
