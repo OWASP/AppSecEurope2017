@@ -13,3 +13,6 @@ The main hall is renowned for it's acoustics and comfortable setting.  The venue
 The Waterfront Hall is situated beside The Hilton Hotel, our main accommodation partner. 
 
 [http://www.waterfront.co.uk/](http://www.waterfront.co.uk/)
+
+<img src="assets/waterfront-hilton.jpg" style="width: 100%; display: block">
+Picture from [http://www.waterfront.co.uk/](http://www.waterfront.co.uk/)
