@@ -4,8 +4,14 @@
   items:
   - title: Venue
     url  : belfast/venue
+  - title: Conference dinner
+    url  : belfast/dinner
+  - title: Hotel
+    url  : belfast/hotel
   - title: The City
     url  : belfast/
+  - title: How to get there
+    url  : belfast/how-to-get-there
 - title: About
   items:
   - title: The Conference

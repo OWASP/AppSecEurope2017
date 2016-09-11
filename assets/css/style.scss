@@ -235,6 +235,10 @@ nav {
 		font-weight: bold;
 	}
 
+	img.content {
+		 max-width: 100%;
+	}
+
 	.sellingpoints {
 		color: $blue;
 		display: flex;
@@ -317,6 +321,12 @@ q {
 			border-color: $orange transparent;
 		}
 	}
+}
+
+.googlemap {
+	width: 100%;
+	max-width: 800px;
+	height: 450px;
 }
 
 
