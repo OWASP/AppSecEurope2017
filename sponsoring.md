@@ -31,7 +31,7 @@ OWASP Appsec Europe 2017 provides sponsors with exclusive access to its audience
 
 Any proceeds from sponsorship support the mission of the OWASP Foundation (501c3 Not-For-Profit), driving funding for conferences, research grants, tools and documents, local chapters, and more.
 
-Read our sponsorship flyer with all the detailed information about the sponsorship levels, items and prices.
+Read our **[sponsorship flyer](assets/docs/AppSec_belfast_sponsorship.pdf)** with all the detailed information about the sponsorship levels, items and prices.
 
 **Contact us today for more information:**
 
