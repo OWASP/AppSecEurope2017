@@ -5,6 +5,7 @@
 $orange: #ee4229;
 $blue: #1f5e83;
 $gray: #f2f2f2;
+$azure: #15486e;
 
 body {
 	margin: 0;
@@ -207,6 +208,9 @@ nav {
 		text-align: justify;
 		margin-top: 5em;
 		border: 1px solid $orange;
+		border-top: 30px solid $orange;
+		background-color: $azure;
+		color: white;
 		margin-left: 1em;
 		margin-bottom: 1em;
 		ul {
