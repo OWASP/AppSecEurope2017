@@ -207,12 +207,11 @@ nav {
 		min-width: 16em;
 		text-align: justify;
 		margin-top: 5em;
-		border: 1px solid $orange;
 		border-top: 30px solid $orange;
-		background-color: $azure;
+		background-color: $blue;
 		color: white;
-		margin-left: 1em;
-		margin-bottom: 1em;
+		margin-left: 3em;
+		margin-bottom: 3em;
 		ul {
 			list-style: none;
 		}
@@ -241,6 +240,12 @@ nav {
 
 	img.content {
 		 max-width: 100%;
+	}
+
+	em {
+		font-size: 120%;
+		color: $blue;
+		font-weight: bolder;
 	}
 
 	.sellingpoints {

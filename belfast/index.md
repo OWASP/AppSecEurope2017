@@ -56,7 +56,7 @@ Access to Belfast is easy and fast. We have two airports, one right in the heart
 
 The city also benefits from convenient transport links both locally and internationally and access to some of the most stunning countryside you could wish to see. From the Giant's Causeway, the beautiful Mourne Mountains and of course, the picturesque Antrim Glens - the location of Game of Thrones!
 
-**We look forward to showing you all that Belfast has to offer!**
+<em>We look forward to showing you all that Belfast has to offer!</em>
 
 
 
