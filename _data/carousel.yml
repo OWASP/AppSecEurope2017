@@ -1,6 +1,6 @@
 - image: belfast-025.jpg
-  title: Waterfront Conference Center
-  description: From 8<sup>th</sup> to 12<sup>th</sup> of May
-- image: waterfront.jpg
   title: OWASP AppSec Europe 2017 Belfast
   description: Join us for the annual conference in Europe
+- image: waterfront.jpg
+  title: Waterfront Conference Center
+  description: From 8<sup>th</sup> to 12<sup>th</sup> of May
