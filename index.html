@@ -6,8 +6,6 @@ title: OWASP AppSec Europe 2017
 
 <div class="main">
 
-    
-
   <ul class="sellingpoints">
     <li>
       <h2>Trainings and conference</h2>
@@ -22,12 +20,14 @@ title: OWASP AppSec Europe 2017
       <p>OWASP AppSec Europe is the leading gathering in web application security.</p>
     </li>  
   </ul>
+
 <hr>
+  
   <h2 style="text-align: center">Keynote speakers at previous AppSec Europe conferences</h2>
   <ul class="keynoters">
     {% for item in site.data.keynoters %}
       <li>
-        <img src="assets/images/mask.png" class="masked" style="background-image: url(assets/images/{{item.image}})">
+        <img src="assets/images/mask.png" alt="{{item.name}}" class="masked" style="background-image: url(assets/images/{{item.image}})">
         <h3>{{item.name}}</h3>
         <p>{{item.description}}</p>
       </li>
