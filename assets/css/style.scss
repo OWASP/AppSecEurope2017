@@ -16,12 +16,10 @@ body {
 
 a {
 	text-decoration: none;
-}
-a {
 	color: $blue;
-}
-a:hover {
-	text-decoration: underline;
+	&:hover {
+		text-decoration: underline;
+	}
 }
 
 h1 {
@@ -94,7 +92,6 @@ nav {
 		padding: 0.5em;
 	
 		&:hover {
-			xfont-weight: bold;
 			text-decoration: none;
 			background: $blue;
 			color: #fff;
@@ -143,11 +140,8 @@ nav {
 }
 
 
-
-
 .carousel {
 	background: #000;
-	xwidth: 100%;
 	position: relative;
 	overflow: hidden;
 	font-size: 120%;
@@ -179,11 +173,7 @@ nav {
 		position: absolute;
 		width: 100%;
 		top: 5%;
-		xleft: 3%;
-		xtext-align: center;
-		xbackground: rgba(0,0,0,0.3);
 		padding: 0.5em 0em;
-		xdisplay: inline-block;
 		padding: 3%;
 	}
 	h2 {
