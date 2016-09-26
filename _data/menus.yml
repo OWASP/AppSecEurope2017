@@ -1,5 +1,9 @@
-- title: Become a sponsor
-  url  : sponsoring
+- title: Sponsors
+  items:
+  - title: Become a sponsor
+    url  : sponsoring
+  - title: Sponsors
+    url  : sponsors
 - title: Belfast
   items:
   - title: Venue

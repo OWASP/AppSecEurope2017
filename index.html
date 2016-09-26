@@ -34,7 +34,12 @@ title: OWASP AppSec Europe 2017
     {% endfor %} 
   </ul>
 
+<hr>
 
-
-
+  <h2 style="text-align: center">Sponsors</h2>
+  <div class="sponsors">
+  {% for sponsor in site.data.sponsors %}
+    <image src="/assets/images/sponsors/{{sponsor.logo}}" viewBox="0 0 100 100">
+  {% endfor %}
+  </div>
 </div>

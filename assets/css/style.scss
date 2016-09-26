@@ -230,6 +230,7 @@ nav {
 
 	img.content {
 		 max-width: 100%;
+		 margin: 1em 0em;
 	}
 
 	em {
@@ -266,6 +267,23 @@ nav {
 			}
 		}
 	}
+
+	.sponsors {
+		display: flex;
+		flex-wrap: wrap;
+		list-style: none;
+		margin: 0;
+		justify-content: space-around;
+
+		img {
+			width: 50%;
+			max-width: 150px;
+			max-height: 150px;
+			height: auto;
+		}
+	}
+
+
 
 	.sellingpoints {
 		color: $blue;
@@ -356,6 +374,7 @@ q {
 	width: 100%;
 	max-width: 800px;
 	height: 450px;
+	margin: 1em 0em;
 }
 
 
