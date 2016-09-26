@@ -261,13 +261,7 @@ nav {
 
 			span {
 				display: block;
-				
-				&.name {
-					color: $orange;
-				}
-				&.role {
-					color: $blue;
-				}
+				color: $blue;
 			}
 		}
 	}
