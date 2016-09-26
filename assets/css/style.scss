@@ -244,10 +244,11 @@ nav {
 		list-style: none;
 		margin: 0;
 		padding: 1em 0em;
-		justify-content: center;
+		justify-content: space-around;
 
 		> li {
-			width: 33%;
+			max-width: 50%;
+			width: 200px;
 			box-sizing: border-box;
 			text-align: center;
 			padding-bottom: 1em;
@@ -400,7 +401,7 @@ footer {
 			}
 		}
 
-		.team-list > li{ width: 50%;}
+		x.team-list > li{ width: 50%;}
 
 		.keynoters img {
 			width: 50%;
