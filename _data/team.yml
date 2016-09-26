@@ -1,0 +1,50 @@
+conferenceteam:
+  - name: Gary Robinson
+    role: Conference Chair
+    image: ConferenceTeam1_GaryRobinson_Conference-Chair.jpg
+  - name: Michelle Simpson
+    role: Conference Co Chair
+    image: ConferenceTeam2_MichelleSimpson_Conference-Co-Chair.png
+  - name: Owen Pendlebury
+    role: Training Chair
+    image: ConferenceTeam4_Owen_Pendlebury-Training_Chair.jpg
+  - name: Thomas Boyle
+    role: Team Member
+    image: 
+  - name: Siobhan Gallagher
+    role: Team Member
+    image: SiobhanGallagher.jpg
+  - name: Martin Knobloch
+    role: Speaker Chair
+    image: ConferenceTeam3_Martin-Knobloch_Speaker-Chair.png
+  - name: David Mathy
+    role: Team member
+    image: 
+  - name: Erlend Oftedal
+    role: Team Member
+    image: erlend.jpg
+staff: 
+  - name: Claudia Aviles-Casanovas
+    role: Project Coordinator
+    image: 
+  - name: Matt Tesauro
+    role: IT
+    image: Matt-Tesauro-150x150.png
+  - name: Laura Grau
+    role: Event Manager
+    image: Laura-Grau-150x150.png
+  - name: Kelly Santalucia
+    role: Membership and Business Liaison
+    image: staff-kelly_santalucia.png
+  - name: Kate Hartmann
+    role: Operations Director
+    image: 
+  - name: Hugo Costa
+    role: Graphic Design
+    image: OWASP_Staff6_Hugo_Costa-Graphic_Design.jpg
+  - name: Alison Shrader
+    role: Accounting
+    image: Alisons-Pic-150x150.jpg
+  - name: Tiffany Long
+    role: Community Manager
+    image: 

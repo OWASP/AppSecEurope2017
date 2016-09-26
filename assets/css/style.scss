@@ -238,6 +238,40 @@ nav {
 		font-weight: bolder;
 	}
 
+	.team-list {
+		display: flex;
+		flex-wrap: wrap;
+		list-style: none;
+		margin: 0;
+		padding: 1em 0em;
+		justify-content: center;
+
+		> li {
+			width: 33%;
+			box-sizing: border-box;
+			text-align: center;
+			padding-bottom: 1em;
+
+			img {
+				width: 50%;
+				max-width: 150px;
+				background-size: cover;
+				background-position: center center;
+			}
+
+			span {
+				display: block;
+				
+				&.name {
+					color: $orange;
+				}
+				&.role {
+					color: $blue;
+				}
+			}
+		}
+	}
+
 	.sellingpoints {
 		color: $blue;
 		display: flex;
@@ -260,6 +294,7 @@ nav {
 			font-weight: bold;
 		}
 	}
+
 	.keynoters {
 		color: $blue;
 		display: flex;
@@ -370,6 +405,9 @@ footer {
 				width: 100%;
 			}
 		}
+
+		.team-list > li{ width: 50%;}
+
 		.keynoters img {
 			width: 50%;
 		}
@@ -384,6 +422,7 @@ footer {
 	nav {
 		font-size: 100%;
 		padding: 0;
+		
 		.burger {
 			display: block;
 			padding: 0.5em;

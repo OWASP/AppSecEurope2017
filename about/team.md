@@ -6,25 +6,27 @@ title: The Team
 
 ## The Conference Team
 
-* Gary Robinson
-* Michelle Simpson
-* Owen Pendlebury
-* Thomas Boyle
-* Siobhan Gallagher
-* Martin Knobloch
-* David Mathy
-* Erlend Oftedal
+<ul class="team-list">
+{% for member in site.data.team.conferenceteam %}
+<li>
+	<img src="/assets/images/mask.png" class="masked" style="background-image: url(/assets/images/{{member.image | default: 'owasp_logo.png'}})" alt="{{member.name}} {{member.role}}">
+	<span class="name">{{member.name}}</span>
+	<span class="role">{{member.role}}</span>
+</li>
+{% endfor %}
+</ul>
+
 
 ## OWASP Staff
 
-* Claudia Aviles-Casanovas - Project Coordinator
-* Matt Tesauro - IT
-* Laura Gray - Event Manager
-* Kelly Santalucia - Membership and Business Liaison
-* Kate Hartmann - Operations Director
-* Hugo Costa - Graphic Design
-* Alison Shrader - Accounting
-* Tiffany Long - Community Manager
-
+<ul class="team-list">
+{% for member in site.data.team.staff %}
+<li>
+	<img src="/assets/images/mask.png" class="masked" style="background-image: url(/assets/images/{{member.image | default: 'owasp_logo.png'}})" alt="{{member.name}} {{member.role}}">
+	<span class="name">{{member.name}}</span>
+	<span class="role">{{member.role}}</span> 
+</li>
+{% endfor %}
+</ul>
 
 
