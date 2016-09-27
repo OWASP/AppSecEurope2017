@@ -268,6 +268,36 @@ nav {
 		}
 	}
 
+	table {
+		border-collapse: collapse;
+
+		thead th {
+			background-color: $azure;
+		}
+
+		th {
+			background-color: $orange;
+			color: #fff;
+			font-weight: bold;
+		}
+
+		td {
+			background-color: $gray;
+		}
+
+		td, th {
+			padding: 0.5em 1em;
+			border-bottom: #fff solid 0.25em;
+		}
+
+		&.registration {
+			th { width: 25%; }
+			th:first-child { width: 50%; }
+			thead th:nth-child(n+2), td:nth-child(n+2) { text-align: right ; }
+		}
+	}
+
+
 	.sponsors {
 		display: flex;
 		flex-wrap: wrap;
@@ -336,6 +366,12 @@ nav {
 		}
 	}
 }
+
+
+
+
+
+
 
 img.worldmap {
 	margin: -10% -5% -10% 0%; 
@@ -479,11 +515,4 @@ footer {
 	}
 }
 
-p.titletable {font-size: 17px ; text-align: center; color: #ffffff; -webkit-text-stroke: #ffffff}
-p.subtitletable {font-size: 14.0px ; color: #ffffff; -webkit-text-stroke: #ffffff}
-p.bodytable {font-size: 14.0px; -webkit-text-stroke: #ffffff}
-
-td.titletable {background-color: $orange; border-style: solid; border-width: 0px; border-color: #fff; margin: 15px}
-td.subtitletable {background-color: $azure; border-style: solid; border-width: 0px; border-color: #fff; padding: 0px 5px 0px 5px}
-td.bodytable {background-color: $gray; border-style: solid; border-width: 0px; border-color: transparent #000000; padding: 10px 0px 0px 10px;}
 
