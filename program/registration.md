@@ -85,18 +85,18 @@ The registration link will be here very soon...
     </tr>
     <tr>
       <td valign="bottom" class="bodytable"><p class="bodytable">One day</p></td>
-      <td valign="bottom" class="bodytable"><p class="bodytable">€<200e>        750,00</p></td>
-      <td valign="bottom" class="bodytable"><p class="bodytable">€<200e>        900,00</p></td>
+      <td valign="bottom" class="bodytable"><p class="bodytable">€750,00</p></td>
+      <td valign="bottom" class="bodytable"><p class="bodytable">€900,00</p></td>
     </tr>
     <tr>
       <td valign="bottom" class="bodytable"><p class="bodytable">Two days</p></td>
-      <td valign="bottom" class="bodytable"><p class="bodytable">€<200e> 1.400,00</p></td>
-      <td valign="bottom" class="bodytable"><p class="bodytable">€<200e> 1.680,00</p></td>
+      <td valign="bottom" class="bodytable"><p class="bodytable">€1.400,00</p></td>
+      <td valign="bottom" class="bodytable"><p class="bodytable">€1.680,00</p></td>
     </tr>
     <tr>
       <td valign="bottom" class="bodytable"><p class="bodytable">Three days</p></td>
-      <td valign="bottom" class="bodytable"><p class="bodytable">€<200e> 2.050,00</p></td>
-      <td valign="bottom" class="bodytable"><p class="bodytable">€<200e> 2.460,00</p></td>
+      <td valign="bottom" class="bodytable"><p class="bodytable">€2.050,00</p></td>
+      <td valign="bottom" class="bodytable"><p class="bodytable">€2.460,00</p></td>
     </tr>
   </tbody>
 </table>
