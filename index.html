@@ -2,10 +2,8 @@
 layout: front
 title: OWASP AppSec Europe 2017
 ---
-
-
 <div class="main">
-
+  
   <ul class="sellingpoints">
     <li>
       <h2>Trainings and conference</h2>
@@ -20,7 +18,7 @@ title: OWASP AppSec Europe 2017
       <p>OWASP AppSec Europe is the leading gathering in web application security.</p>
     </li>  
   </ul>
-
+ 
 <hr>
   
   <h2 style="text-align: center">Keynote speakers at previous AppSec Europe conferences</h2>
@@ -37,9 +35,5 @@ title: OWASP AppSec Europe 2017
 <hr>
 
   <h2 style="text-align: center">Sponsors</h2>
-  <div class="sponsors">
-  {% for sponsor in site.data.sponsors %}
-    <image src="/assets/images/sponsors/{{sponsor.logo}}">
-  {% endfor %}
-  </div>
+  {% include sponsors.html %}
 </div>
