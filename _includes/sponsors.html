@@ -1,0 +1,5 @@
+  <ul class="sponsors">
+  {% for sponsor in site.data.sponsors %}
+    <li style="background-image: url(/assets/images/sponsors/{{sponsor.logo}})" title="{{sponsor.name}}"></li>
+  {% endfor %}
+  </ul>
