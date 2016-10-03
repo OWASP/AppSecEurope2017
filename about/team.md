@@ -30,3 +30,17 @@ title: The Team
 </ul>
 
 
+## CfT committee
+
+* Owen Pendlebury
+* Gary Robinson
+* Loredana Mancini
+* Adrian Winckles
+* Erlend Oftedal
+* David	Mathy
+* Liam O'Connor
+* Mark Cummins
+* Roberto Martelloni
+* Fabrizio Di Carlo
+* Niall Heffernan
+
