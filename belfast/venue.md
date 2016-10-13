@@ -21,4 +21,4 @@ The Waterfront offers over 7,000m 2 of state-of- the-art conference facilities w
 
 Offering visitors a panoramic 360 degree view of Belfast, the Waterfront is perched on the banks of the River Lagan, on which the city of Belfast was originally founded. The Waterfront Hall is adjoined to the Hilton Hotel, our main accommodation partner.
 
-<img src="../assets/images/waterfront-hilton3.jpg" style="width: 100%; display: block">
+<img src="../assets/images/waterfront-hilton4.jpg" style="width: 100%; display: block">
