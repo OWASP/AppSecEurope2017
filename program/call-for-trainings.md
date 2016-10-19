@@ -58,7 +58,7 @@ Your submission is subject to approval by a small core team of the program commi
 
 To submit a proposal, please provide an abstract of your intended training (500 to 1000 characters), a brief biography (400 to 1000 characters), an outline, your instructor experience and basic course information for evaluation by the planning committee.
 
-*[Submission Form](https://docs.google.com/a/owasp.org/forms/d/1M41xuC1fNyCnS3haiYy0LEjk-dFYG1fOJ-9_SCIgGCE/viewform) *
+*[Submission Form](https://easychair.org/conferences/?conf=appseceu2017)*
 
 
 Upon selection you will be required to submit a completed OWASP Training Instructor Agreement and provide a headshot of the instructor(s).
