@@ -41,13 +41,17 @@ h2 {
 }
 
 
-
 h3 {
 	font-size: 120%;
 	font-weight: bold;
 	margin-bottom: 0.5em;
 	color: $orange;
 }
+
+.front h2 {
+	text-transform: uppercase;
+}
+
 
 sup {
 	font-size: 75%;
@@ -139,6 +143,10 @@ nav {
 	}
 }
 
+.masked {
+	background-position: center center;
+	background-size: cover;
+}
 
 .carousel {
 	background: #000;
@@ -215,6 +223,7 @@ nav {
 		margin-right: -2em;
 		border: none;
 		border-top: 1px solid $blue;
+		margin-bottom: 3em;
 	}
 
 	ul { 
@@ -333,10 +342,13 @@ nav {
 			text-align: center;
 		}
 
-		h2 {
+		h3 {
 			text-transform: uppercase;
 			font-weight: bold;
 		}
+	}
+	.keynotes {
+		list-style: none;
 	}
 
 	.keynoters {

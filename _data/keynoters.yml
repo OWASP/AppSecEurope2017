@@ -1,12 +1,22 @@
-- image: Charlie-Miller.jpg
-  name: Charlie Miller
-  description: Bugs ruin everything
-- image: alessandro.jpg
-  name: Alessandro Perilli
-  description: Can Security Keep Up the Pace with Frictionless IT?
-- image: mike_west.png
-  name: Mike West
-  description: Hardening the Web Platform
-- image: troyhunt.jpg
-  name: Troy Hunt
-  description: 50 Shades of AppSec
+- image: baloo_jaya-m.jpg
+  name: Jaya Baloo
+  description: |
+    Jaya Baloo the CISO of KPN Telecom in the Netherlands. She won the Cyber Security Executive of the year award in 2015. Jaya works with an amazing information security team of highly driven specialists.  Working in the information security arena for the past 18 years, she has worked mostly for global telecommunications companies such as Verizon and France Telecom. Jaya is also a frequent speaker at security conferences on subjects around lawful interception, mass surveillance, and cryptography.
+- image: jeremiah_grossmann.jpg
+  name: Jeremiah Grossmann
+  description: |
+    Founder of WhiteHat Security. World-Renowned Professional Hacker. Brazilian Jiu-Jitsu Black Belt. Published Author. Influential Blogger. Off-Road Race Driver. Jeremiah Grossman's career spans nearly 20 years and has lived a literal lifetime in computer security to become one of the industry's biggest names. And since Jeremiah earned a Brazilian Jiu-Jitsu black belt, the media has described him as "the embodiment of converged IT and physical security.” Preventing attacks from the scariest cyber-criminals is all in a day's work for Jeremiah, but staying a keystroke ahead of the bad guys isn't easy. In 2001, Jeremiah founded WhiteHat Security, which today has one of the largest professional hacking armies on the planet. Let it sink in. Professional. Hacker. Army.
+    
+    Jeremiah has received a number of industry awards, been publicly thanked by Microsoft, Mozilla, Google, Facebook, and many others for privately informing them of weaknesses in their systems -- a polite way of saying, ‘hacking them'. His research has included new ways to surreptitiously turn on anyone's computer video camera and microphone from anywhere across the Internet, sidestep corporate firewalls, abuse online advertising networks to take any website offline, hijack the email and bank accounts of millions, silently rip out saved passwords and surfing history from web browsers, and many other innovative cyber-attack techniques – some so insidious and fundamental that many still have not been fixed to this day.
+    
+    Collectively, it's no surprise Jeremiah has been featured in the Wall Street Journal, Forbes, NY Times and hundreds of other media outlets around the world who rely upon his expertise regularly. Just type “Jeremiah Grossman” into your favorite search engine, you'll see. Of course, all of this was after Mr. Grossman served as information security officer at Yahoo! Being both technical and business savvy, Jeremiah Grossman is the ultimate 'white hat.'
+- image: shannon_lietz.jpg
+  name: Shannon Lietz
+  description: |
+    DevSecOps Lead, Intuit
+    
+    Shannon Lietz is an award winning innovator with over two decades of experience pursuing advanced security defenses and next generation security solutions. Ms. Lietz is currently the DevSecOps Leader for Intuit where she is responsible for setting and driving the company’s cloud security strategy, roadmap and implementation in support of corporate innovation. She operates a 24x7 DevSecOps team that includes Red and Blue Team operations. 
+    Previous to joining Intuit, Ms. Lietz worked for ServiceNow where she was responsible for the cloud security engineering efforts. Prior to this, Ms. Lietz worked for Sony where she drove the implementation of a new secure data center and led crisis management for a large-scale security breach. She has founded a metrics company, led major initiatives for hosting organizations as a Master Security Architect, developed security software and consulted for many Fortune 500 organizations. Ms. Lietz holds a Bachelors of Science degree in Biological Sciences from Mount St. Mary’s College.
+- image: owasp_logo.png
+  name: TBA
+  description: TBA
