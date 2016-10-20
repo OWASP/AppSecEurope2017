@@ -4,6 +4,12 @@
     url  : sponsoring
   - title: Sponsors
     url  : sponsors
+- title: Submit
+  items:
+  - title: Call for papers
+    url: program/call-for-papers
+  - title: Call for trainings
+    url: program/call-for-trainings
 - title: Belfast
   items:
   - title: Venue

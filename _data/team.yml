@@ -47,4 +47,16 @@ staff:
     image: Alisons-Pic-150x150.jpg
   - name: Tiffany Long
     role: Community Manager
-    image: 
+    image:
+cftcommittee:
+  - name: Owen Pendlebury
+  - name: Gary Robinson
+  - name: Loredana Mancini
+  - name: Adrian Winckles
+  - name: Erlend Oftedal
+  - name: David Mathy
+  - name: Liam O'Connor
+  - name: Mark Cummins
+  - name: Roberto Martelloni
+  - name: Fabrizio Di Carlo
+  - name: Niall Heffernan
