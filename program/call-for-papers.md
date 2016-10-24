@@ -5,7 +5,7 @@ title: Call for Papers
 # {{page.title}}
 
 
-The OWASP AppSec conference in Europe is an established and premier venue for web applications leaders, software engineers, researchers and visionaries from all over the world. OWASP AppSec Europe gathers the application security community in a 4-days event to share and discuss novel ideas, initiatives and advancements. The 2017 conference will take place in Belfast from May 8th to 12th 2017, with papers/talks presented on 11th and 12th May.
+The OWASP AppSec conference in Europe is an established and premier venue for web applications leaders, software engineers, researchers and visionaries from all over the world. OWASP AppSec Europe gathers the application security community in a 5-days event to share and discuss novel ideas, initiatives and advancements. The 2017 conference will take place in Belfast from May 8th to 12th 2017, with papers/talks presented on 11th and 12th May.
  
 
 ## Topics
