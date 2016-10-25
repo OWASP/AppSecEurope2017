@@ -26,6 +26,8 @@
   items:
   - title: The Conference
     url  : about/
+  - title: Diversity statement
+    url  : about/diversity-statement
   - title: The Team
     url  : about/team
   - title: Contact
