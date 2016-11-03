@@ -1,5 +1,4 @@
-{% if site.safe %}{% assign baseUrl = "/AppSecEurope2017/" %}{% else %}{% assign baseUrl = "/" %}{% endif %}
-<!DOCTYPE html>
+{% if site.safe %}{% assign baseUrl = "/AppSecEurope2017/" %}{% else %}{% assign baseUrl = "/" %}{% endif %}<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -28,6 +27,25 @@
   <title>{{ page.title }}</title>
 	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">  
   <link type="text/css" rel="stylesheet" href="{{baseUrl}}assets/css/style.css">
+
+  {% assign carousel_count = site.data.carousel | size %}
+  <style>
+  @keyframes carousel{
+    {% assign steps = carousel_count | minus: 1  | times: 2 %}
+    {% assign step_picture = 8.0 %}
+    {% assign step_transition = 1 %}
+    {% assign step_total = step_picture | plus: step_transition %}
+    {% assign step_transition_fraction =  step_transition | divided_by: step_total %}
+    {% for i in (1..steps) %}
+      {% assign step_sub = steps | divided_by: 2 | minus: i | plus: 1%}
+      {% if step_sub > 0 %}{% assign step_sub = step_sub | times: -1 %}{% endif %}
+      {% assign step_location = steps | divided_by: 2 | plus: step_sub | times: -100  %}
+      {{ i | minus: 1 | times:100 | divided_by: steps }}%   { left: {{ step_location }}%; }
+      {{ i | minus: step_transition_fraction | times:100 | divided_by: steps }}%   { left: {{ step_location }}%; }
+    {% endfor %}
+      100% { left: 0%; }
+  </style>
+
 </head>
 <body>
 
@@ -37,7 +55,7 @@
 		<img src="{{baseUrl}}assets/images/A1_belfast_2017_2.svg">
 	</a>
 	<nav>
-		<a href="#" class="burger" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle" data-toggle="dropdown">☰</a>
+		<a href="#" class="burger dropdown-toggle" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">☰</a>
 		<ul class="nav navbar-nav">
 		{% for menu in site.data.menus %}
 			{% if menu.items %}
@@ -59,23 +77,7 @@
 	</nav>
 </header>
 
-{% assign carousel_count = site.data.carousel | size %}
-<style>
-@keyframes carousel{
-  {% assign steps = carousel_count | minus: 1  | times: 2 %}
-  {% assign step_picture = 8.0 %}
-  {% assign step_transition = 1 %}
-  {% assign step_total = step_picture | plus: step_transition %}
-  {% assign step_transition_fraction =  step_transition | divided_by: step_total %}
-  {% for i in (1..steps) %}
-    {% assign step_sub = steps | divided_by: 2 | minus: i | plus: 1%}
-    {% if step_sub > 0 %}{% assign step_sub = step_sub | times: -1 %}{% endif %}
-    {% assign step_location = steps | divided_by: 2 | plus: step_sub | times: -100  %}
-    {{ i | minus: 1 | times:100 | divided_by: steps }}%   { left: {{ step_location }}%; }
-    {{ i | minus: step_transition_fraction | times:100 | divided_by: steps }}%   { left: {{ step_location }}%; }
-  {% endfor %}
-    100% { left: 0%; }
-</style>
+
 
 <div class="carousel">
   <ul style="width: {{ carousel_count | times: 100 }}%; animation: carousel {{ carousel_count | times: step_total }}s infinite">
