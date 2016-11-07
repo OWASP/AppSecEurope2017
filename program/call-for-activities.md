@@ -1,30 +1,16 @@
 ---
-title: Call for activities
+title: Call for Activities
 ---
 
 # {{page.title}}
 
-Interested in hosting an activity at OWASP AppSec-Eu 2016 in Rome? Now’s your time to submit your idea. The OWASP AppSec Europe is interested in considering a variety of potential activities during and around the conference.	 	 
+This year we are hoping to run a variety of different activities at the conference and are welcoming bids and suggestions for events that can be run on the 11th and / or the 12th of May alongside the main conference in the Waterfront.
 
-## Host an activity, tech- and no-tech / social activities are welcome!
+All types of activity will be considered with preference given to those with a more security focussed theme, so whether it's a Capture the Flag event, an Escape room event, lock picking demonstrations or something else then please review and fill in the form to register your interest in attending.
 
-Here some ideas:	 	 
+OWASP is a non-profit organisation and will not be able to invest significantly in the cost of activities, however if funding is required we can offer the event as a sponsorship opportunity to our vendors. This will then cover the cost of any expenditures related to running the event.
 
-* Capture the flag
-* Escape room
-* Lockpick village
-* Bug Bounty event
-* Indoor karting
-* or something else…
-
-## Submission Process
-Submit your activity below. The conference team will review submissions on a rolling basis.	 	
-
-Activities do not have to be free to be considered, however, the total cost and value of the activity will be a part of the review process.
-
-**The call for activities is open until February 30th!**
-
-Link to submission form:	 	 
-<a href="#" target="_blank">Submit the info using this Google form</a>
+To register your activity please review and complete the form at:
+[https://docs.google.com/forms/d/1PkHIrUx116MuUlC4q8lWZhYSYkuzFWyvWIV4jpKQIQo/](https://docs.google.com/forms/d/1PkHIrUx116MuUlC4q8lWZhYSYkuzFWyvWIV4jpKQIQo/)
 
 
