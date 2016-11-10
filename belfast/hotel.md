@@ -16,7 +16,7 @@ The hotel list below covers a wide range of hotel budgets. Please note that earl
 reference #13824</td></tr>
 <tr><td><a href="http://www.ibisbelfastcity.com/">Ibis Belfast City Center</a></td><td>£89/room</td><td>0.8 miles</td><td>Call hotel on +44 (0) 2890 238888 quote the reference OWASP
 </td></tr>
-<tr><td><a href="https://www.jurysinns.com/hotels/belfast">Jurys Inn</a></td><td>From £89/room</td><td>0.6 miles</td><td><a href="https://www.jurysinns.com/hotels/belfast?tmad=c&tmcampid=74&tmplaceref=e&tmclickref=jurys%20inn%20belfast&gclid=CMy33YLPnNACFUk6gQodfgMPGQ&gclsrc=aw.ds">Book here</a> with OWASP Promo code JIOWASP70517<td></tr>
+<tr><td><a href="https://www.jurysinns.com/hotels/belfast">Jurys Inn</a></td><td>From £89/room</td><td>0.6 miles</td><td><a href="https://www.jurysinns.com/hotels/belfast?tmad=c&tmcampid=74&tmplaceref=e&tmclickref=jurys%20inn%20belfast&gclid=CMy33YLPnNACFUk6gQodfgMPGQ&gclsrc=aw.ds">Book here</a> with OWASP Promo code JIOWASP70517</td></tr>
 <tr><td><a href="http://www.premierinn.com/gb/en/hotels/northern-ireland/antrim/belfast/belfast-city-centre-alfred-street.html">Premier Inn Alfred Street</a></td><td>Contact Hotel</td><td>0.5 miles</td><td>Book online with hotel (no direct OWASP rate)</td></tr>
 <tr><td><a href="http://www.premierinn.com/gb/en/hotels/northern-ireland/antrim/belfast/belfast-titanic-quarter.html">Premier Inn Titanic Quarter</a></td><td>Contact Hotel</td><td>0.8 miles</td><td>Book online with hotel (no direct OWASP rate)
 </td></tr>
