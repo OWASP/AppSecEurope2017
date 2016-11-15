@@ -16,11 +16,11 @@ Lightning talks and training can be about any application security topic.  It co
 * Bug bounties
 * Getting started with ModSecurity
 * Web app security testing with Fiddler
-  
+
 Successful entrants will be given a complimentary ticket the conference (including dinner).  Only one person will be able to avail of this offer per lightning talk or training.
 
 To submit a lightning talk or training, use the following Google form:  
-[https://docs.google.com/forms/d/e/1FAIpQLSdQ0c8sSDbJM_3gb2y7FIyuDGAqCrIFY2NmfakC4hsbLmywaw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdQ0c8sSDbJM_3gb2y7FIyuDGAqCrIFY2NmfakC4hsbLmywaw/viewform)
+[Open google form](https://docs.google.com/forms/d/e/1FAIpQLSdQ0c8sSDbJM_3gb2y7FIyuDGAqCrIFY2NmfakC4hsbLmywaw/viewform)
 
 
 
