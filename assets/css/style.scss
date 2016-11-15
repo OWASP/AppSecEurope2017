@@ -117,7 +117,8 @@ nav {
 			margin: 0;
 			padding: 0em 1em 0em 0em;
 			transition: all linear 0.1s;
-		
+			line-height: 1.5em;
+
 			&.dropdown > a:after {
 				content: "\25be";
 				margin-left: 0.25em;
