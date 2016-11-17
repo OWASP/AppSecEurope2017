@@ -94,6 +94,7 @@ nav {
 		text-decoration: none;
 		display: block;
 		padding: 0.5em;
+		padding-right: 1em;
 	
 		&:hover {
 			text-decoration: none;
@@ -129,7 +130,8 @@ nav {
 				position: absolute;
 				z-index: 2;
 				list-style: none;
-				width: 12em;
+				xwidth: 12em;
+				white-space: nowrap;
 				margin: 0;
 				padding: 0;
 				background: #eee;
@@ -432,6 +434,7 @@ q {
 footer {
 	text-align: center;
 	padding: 1em;
+	padding-bottom: 0em;
 	margin-top: 3em;
 	font-size: 80%;
 
