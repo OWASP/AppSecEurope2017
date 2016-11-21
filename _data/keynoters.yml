@@ -17,6 +17,7 @@
     
     Shannon Lietz is an award winning innovator with over two decades of experience pursuing advanced security defenses and next generation security solutions. Ms. Lietz is currently the DevSecOps Leader for Intuit where she is responsible for setting and driving the company’s cloud security strategy, roadmap and implementation in support of corporate innovation. She operates a 24x7 DevSecOps team that includes Red and Blue Team operations. 
     Previous to joining Intuit, Ms. Lietz worked for ServiceNow where she was responsible for the cloud security engineering efforts. Prior to this, Ms. Lietz worked for Sony where she drove the implementation of a new secure data center and led crisis management for a large-scale security breach. She has founded a metrics company, led major initiatives for hosting organizations as a Master Security Architect, developed security software and consulted for many Fortune 500 organizations. Ms. Lietz holds a Bachelors of Science degree in Biological Sciences from Mount St. Mary’s College.
-- image: owasp_logo.png
-  name: TBA
-  description: TBA
+- image: brian_honan.jpg
+  name: Brian Honan
+  description: |
+    Brian Honan is an independent security consultant based in Dublin, Ireland, and is also the founder and head of IRISSCERT, Ireland's first CERT. He is a Special Advisor to Europol's Cybercrime Centre (EC3), an adjunct lecturer on Information Security in University College Dublin, and sits on the advisory board for a number of innovative security companies. He is the author of the book "ISO 27001 in a Windows Environment" and co-author of books "The CSA Guide to Cloud Computing" and "The Cloud Security Rules". He is a regular speaker at major industry conferences and regular contributes to industry publications. In 2013 Brian was awarded "SC Magazine Information Security Person of the Year" for his contribution to the computer security industry.  Brian Honan was also inducted into the 2016 Infosecurity Europe Hall of Fame.
