@@ -1,5 +1,5 @@
-  <ul class="sponsors">
+  <div class="sponsors">
   {% for sponsor in site.data.sponsors %}
-    <li style="background-image: url(/assets/images/sponsors/{{sponsor.logo}})" title="{{sponsor.name}}"></li>
+    <a style="background-image: url(/assets/images/sponsors/{{sponsor.logo}})" title="{{sponsor.name}}" href="{{sponsor.url}}"></a>
   {% endfor %}
-  </ul>
+  </div>
