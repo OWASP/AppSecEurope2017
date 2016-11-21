@@ -381,6 +381,23 @@ nav {
 			background-size: cover;			
 		}
 	}
+	.keynotepage {
+		img { 
+			float: left; 
+			width: 200px;
+			margin-right: 2em;
+			margin-bottom: 1em;
+		}
+		li:nth-child(2n+1) img { 
+			float: right;
+ 			margin-left: 2em;
+		}
+		li { 
+			display: table;
+			clear: both;
+			margin-bottom: 2em;
+		}
+	}
 }
 
 
@@ -478,7 +495,22 @@ footer {
 		.keynoters img {
 			width: 50%;
 		}
-
+		.keynotepage {
+			img { 
+				float: none; 
+				width: 200px;
+				margin-right: 0em;
+				margin-bottom: 0em;
+			}
+			li:nth-child(2n+1) img { 
+				float: none;
+	 			margin-left: 0em;
+			}
+			li { 
+				display: block;
+				clear: both;
+			}
+		}
 		aside {
 			width: 100%;
 			margin-left: 0;
