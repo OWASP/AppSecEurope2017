@@ -30,17 +30,26 @@ title: The Team
 </ul>
 
 
-## Training selection committee
+<div class="twocols">
+	<div>
 
-<ul>
-{% for member in site.data.team.cftcommittee %}
-	<li>{{member.name}}</li>
-{% endfor %}
-</ul>
+	<h2>Training selection committee</h2>
 
-## Paper selection committee
-<ul>
-{% for member in site.data.team.programcommittee %}
-	<li>{{member.name}}</li>
-{% endfor %}
-</ul>
+		<ul>
+		{% for member in site.data.team.cftcommittee %}
+			<li>{{member.name}}</li>
+		{% endfor %}
+		</ul>
+	</div>
+
+	<div>
+
+		<h2>Paper selection committee</h2>
+
+		<ul>
+		{% for member in site.data.team.programcommittee %}
+			<li>{{member.name}}</li>
+		{% endfor %}
+		</ul>
+	</div>
+</div>

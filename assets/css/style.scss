@@ -73,7 +73,13 @@ header a {
 
 
 
-
+h2.dates {
+	padding: 0.5em 0em 0em 0em;
+	text-align: center;
+	em {
+		text-transform: none;
+	}
+}
 
 nav {
 	padding-left: 2em;
@@ -441,6 +447,17 @@ q {
 	}
 }
 
+.twocols {
+	display: flex;
+	justify-content: space-around;
+	> div {
+		flex: 0 1 auto;
+		xwidth: 50%;
+		text-align: left;
+	}
+}
+
+
 .googlemap {
 	width: 100%;
 	max-width: 800px;
@@ -567,6 +584,10 @@ footer {
 	}
 	.carousel ul {
 		height: 14em;
+	}
+	.twocols {
+		flex-direction: column;
+		justify-content: center;
 	}
 }
 
