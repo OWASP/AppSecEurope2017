@@ -62,21 +62,21 @@ cftcommittee:
   - name: Fiona Collins
   - name: Ann Murtgh
 programcommittee:
-  - Martin Knobloch
-  - Michelle Simpson
-  - Erlend Oftedal
-  - Allison Shubert
-  - Boris Hemkemeie
-  - Ksenia Dmitrieva
-  - Mark Miller
-  - Antonio Fontes
-  - Martin Johns
-  - Luca Carettoni
-  - Alex Kouzemtchenko
-  - Lieven Desmet
-  - Sebastian Lekies
-  - Benjamin Livshits
-  - Sebastien Deleersnyder
+  - name: Martin Knobloch
+  - name: Michelle Simpson
+  - name: Erlend Oftedal
+  - name: Allison Shubert
+  - name: Boris Hemkemeie
+  - name: Ksenia Dmitrieva
+  - name: Mark Miller
+  - name: Antonio Fontes
+  - name: Martin Johns
+  - name: Luca Carettoni
+  - name: Alex Kouzemtchenko
+  - name: Lieven Desmet
+  - name: Sebastian Lekies
+  - name: Benjamin Livshits
+  - name: Sebastien Deleersnyder
 
 
 
