@@ -40,4 +40,7 @@ title: The Team
 
 ## Paper selection committee
 <ul>
+{% for member in site.data.team.programcommittee %}
+	<li>{{member.name}}</li>
+{% endfor %}
 </ul>
