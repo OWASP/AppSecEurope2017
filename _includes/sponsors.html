@@ -1,5 +1,9 @@
-  <div class="sponsors">
-  {% for sponsor in site.data.sponsors %}
-    <a style="background-image: url(/assets/images/sponsors/{{sponsor.logo}})" title="{{sponsor.name}}" href="{{sponsor.url}}"></a>
-  {% endfor %}
-  </div>
+{% for sponsortype in site.data.sponsors %}
+	{% if sponsortype.sponsors %}
+	  <div class="sponsors {{ sponsortype.type }}">
+		{% for sponsor in sponsortype.sponsors %}
+	    <a style="background-image: url(/assets/images/sponsors/{{sponsor.logo}})" title="{{sponsor.name}}" href="{{sponsor.url}}"></a>
+	  {% endfor %}
+	  </div>
+  {% endif %}
+{% endfor %}

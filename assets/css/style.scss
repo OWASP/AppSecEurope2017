@@ -334,10 +334,16 @@ nav {
 
 		a {
 			height: 150px;
-			width: 200px;
+			width: 180px;
 			background-size: contain;
 			background-repeat: no-repeat;
 			background-position: center center;
+		}
+		&.Diamond a {
+			width: 230px;
+		}
+		&.Gold a {
+			width: 220px;
 		}
 	}
 

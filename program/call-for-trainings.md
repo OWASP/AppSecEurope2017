@@ -44,10 +44,8 @@ Your submission is subject to approval by a small core team of the program commi
 
 ## Deadlines
 
-* **Deadline for proposals:**  January 2, 2017
-
+* **Deadline for proposals:** January 2, 2017
 * **Notification to training providers:** January 23, 2017
-
 * **Training:** May 8, 9, 10
 
 ## Split of Revenue
