@@ -73,13 +73,6 @@ header a {
 
 
 
-h2.dates {
-	padding: 0.5em 0em 0em 0em;
-	text-align: center;
-	em {
-		text-transform: none;
-	}
-}
 
 nav {
 	padding-left: 2em;
@@ -316,6 +309,21 @@ nav {
 		}
 	}
 
+
+	ul.dates {
+		list-style: none;
+		margin: 1.5em;
+		padding: 0;
+		color: #1f5e83;
+		font-size: 120%;
+		li {  
+			margin: 0 auto;
+			padding: 0;
+		}
+		li { width: 22em; }
+		li span { width: 9em; display: inline-block; text-align: right; }
+		li span::after { content: " - "}
+	}
 
 	.sponsors {
 		display: flex;
