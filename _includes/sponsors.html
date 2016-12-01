@@ -1,9 +1,12 @@
+<section class="sponsors">
 {% for sponsortype in site.data.sponsors %}
 	{% if sponsortype.sponsors %}
-	  <div class="sponsors {{ sponsortype.type }}">
+  	<h3>{{ sponsortype.type }} sponsors</h3>
+	  <div class="{{ sponsortype.type }}">
 		{% for sponsor in sponsortype.sponsors %}
 	    <a style="background-image: url(/assets/images/sponsors/{{sponsor.logo}})" title="{{sponsor.name}}" href="{{sponsor.url}}"></a>
 	  {% endfor %}
 	  </div>
   {% endif %}
 {% endfor %}
+</section>

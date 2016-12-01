@@ -326,27 +326,30 @@ nav {
 	}
 
 	.sponsors {
-		display: flex;
-		flex-wrap: wrap;
-		list-style: none;
-		margin: 0;
-		justify-content: space-around;
-
-		a {
-			height: 150px;
-			width: 180px;
-			background-size: contain;
-			background-repeat: no-repeat;
-			background-position: center center;
+		h3 {
+			text-align: center;
 		}
-		&.Diamond a {
-			width: 230px;
-		}
-		&.Gold a {
-			width: 220px;
-		}
+		div {
+			display: flex;
+			flex-wrap: wrap;
+			list-style: none;
+			margin: 0;
+			justify-content: space-around;
+			a {
+				height: 150px;
+				width: 180px;
+				background-size: contain;
+				background-repeat: no-repeat;
+				background-position: center center;
+			}
+			&.Diamond a {
+				width: 230px;
+			}
+			&.Gold a {
+				width: 220px;
+			}
 	}
-
+}
 
 
 	.sellingpoints {

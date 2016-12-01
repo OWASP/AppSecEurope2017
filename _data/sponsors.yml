@@ -4,12 +4,12 @@
   sponsors:
 - type: Gold
   sponsors:
-  - logo: netsparker.png
-    name: Netsparker
-    url:  https://www.netsparker.com/
   - logo: Black_Duck_Logo_l.png
     name: BlackDuck
     url:  https://www.blackducksoftware.com/
+  - logo: netsparker.png
+    name: Netsparker
+    url:  https://www.netsparker.com/
 - type: Silver
   sponsors:
 - type: Lanyard
