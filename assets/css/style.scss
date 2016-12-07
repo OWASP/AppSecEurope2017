@@ -7,6 +7,11 @@ $blue: #1f5e83;
 $gray: #f2f2f2;
 $azure: #15486e;
 
+
+$blue-medium:		#0a7fcf;
+$green: 				#71b851;
+
+
 body {
 	margin: 0;
 	padding: 0% 3%;
@@ -194,6 +199,9 @@ nav {
 	}
 }
 
+
+
+
 .main {
 	margin-top: 0em;
 	min-height: 20em;
@@ -306,6 +314,89 @@ nav {
 			th { width: 25%; }
 			th:first-child { width: 50%; }
 			thead th:nth-child(n+2), td:nth-child(n+2) { text-align: right ; }
+		}
+	}
+	section.about {
+		text-align: center;
+		ul {
+			display: table;
+			text-align: initial;
+			margin: 0 auto;
+		}
+		p {
+			text-align: initial;
+		}
+	}
+
+	table.arrowed {
+		width: 100%;
+		font-size: 85%;
+		td {
+		    background-color: #9e9e9e;
+		    border-left: #fff solid 1em;
+		    line-height: 1em;
+		    padding: 0.5em;
+		    position: relative;
+		    left: -0.5em;
+		    color: #fff;
+		    width: 20%;
+		    text-align: center;
+		    height: 2em;
+		    vertical-align: middle;
+		}
+
+		td:after {
+		    content: "";
+		    width: 0;
+		    height: 0;
+		    border-left: #9e9e9e solid 0.8em;
+		    border-top: transparent solid 1.5em;
+		    border-bottom: transparent solid 1.5em;
+		    position: absolute;
+		    top: 0em;
+		    right: -0.7em;
+		    z-index: 2;
+		}
+		td.hidden { 
+			visibility: hidden;
+		}
+		td.orange {
+			background-color: $orange;
+			&:after{
+				border-left-color: $orange;
+			}
+		}
+		td.blue {
+			background-color: $blue-medium;
+			&:after{
+				border-left-color: $blue-medium;
+			}
+		}
+		td.green {
+			background-color: $green;
+			&:after{
+				border-left-color: $green;
+			}
+		}
+	}
+
+	section.about ul.legend {
+		display: flex;
+		flex-wrap: wrap;
+		list-style: none;
+		margin-left:1em;
+		justify-content: flex-start;
+		li {
+			margin-right: 2em;
+			&.orange:before { color: $orange }
+			&.blue:before { color: $blue-medium }
+			&.green:before { color: $green }
+		}
+		li:before {
+			content: "\2B22";
+			position: relative;
+			top: -0.1em;
+			left: -0.2em;
 		}
 	}
 

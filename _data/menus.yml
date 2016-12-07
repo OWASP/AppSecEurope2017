@@ -34,6 +34,8 @@
   items:
   - title: The Conference
     url  : about/
+  - title: The Pre-Conference
+    url  : about/pre-conference
   - title: Diversity statement
     url  : about/diversity-statement
   - title: The Team
