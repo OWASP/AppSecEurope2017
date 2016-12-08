@@ -33,9 +33,11 @@
 - title: About
   items:
   - title: The Conference
-    url  : about/
+    url  : about/conference
   - title: The Pre-Conference
     url  : about/pre-conference
+  - title: OWASP
+    url  : about/
   - title: Diversity statement
     url  : about/diversity-statement
   - title: The Team

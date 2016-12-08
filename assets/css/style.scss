@@ -72,7 +72,7 @@ header a {
 		width: 47%;
 		float: right;
 		margin-top: 2%;
-		margin-bottom: -1%;
+		margin-bottom: -10%;
 	}
 }
 
@@ -337,7 +337,7 @@ nav {
 		    line-height: 1em;
 		    padding: 0.5em;
 		    position: relative;
-		    left: -0.5em;
+		    left: -1em;
 		    color: #fff;
 		    width: 20%;
 		    text-align: center;
@@ -378,27 +378,35 @@ nav {
 				border-left-color: $green;
 			}
 		}
+		td.white {
+			color: #000;
+			font-size: 130%;
+			background-color: #fff;
+			&:after{
+				border-left-color: #fff;
+			}
+		}
+		ul.legend {
+			display: flex;
+			flex-wrap: wrap;
+			list-style: none;
+			margin: 0;
+			justify-content: flex-start;
+			li {
+				margin-right: 2em;
+				&.orange:before { color: $orange }
+				&.blue:before { color: $blue-medium }
+				&.green:before { color: $green }
+			}
+			li:before {
+				content: "\2B22";
+				position: relative;
+				top: -0.1em;
+				left: -0.2em;
+			}
+		}
 	}
 
-	section.about ul.legend {
-		display: flex;
-		flex-wrap: wrap;
-		list-style: none;
-		margin-left:1em;
-		justify-content: flex-start;
-		li {
-			margin-right: 2em;
-			&.orange:before { color: $orange }
-			&.blue:before { color: $blue-medium }
-			&.green:before { color: $green }
-		}
-		li:before {
-			content: "\2B22";
-			position: relative;
-			top: -0.1em;
-			left: -0.2em;
-		}
-	}
 	.nomargins {
 		margin-left: -2em;
 		margin-right: -2em;

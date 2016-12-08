@@ -3,20 +3,18 @@ title: Pre-Conference Schedule
 ---
 
 # {{page.title}}
-<section class="about">
 <table class="arrowed" style="max-width: 66em">
 <tr><td>Monday</td><td>Tuesday</td><td>Wednesday</td></tr>
 <tr><td colspan="3" class="blue">Training Courses</td></tr>
 <tr><td class="green">Schools Outreach</td><td colspan="2" class="green">University Challenge</td></tr>
 <tr><td class="green">Adults Outreach</td><td colspan="2" class="green">OWASP Project Summit</td></tr>
-<tr><td colspan="2" class="hidden"></td><td class="green">Social Event</td></tr>
-</table>
-
-<ul class="legend">
+<tr><td colspan="2" class="white"></td><td class="green">Social Event</td></tr>
+<tr><td colspan="3" class="white"><ul class="legend">
   <li class="blue">Training Costs</li>
   <li class="green">Free</li>
-</ul>
-</section>
+</ul></td></tr>
+</table>
+
 
 ## Training Courses
 
