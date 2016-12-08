@@ -38,6 +38,10 @@
     url  : about/pre-conference
   - title: OWASP
     url  : about/
+  - title: News
+    url  : news
+  - title: Supporters
+    url  : about/supporters
   - title: Diversity statement
     url  : about/diversity-statement
   - title: The Team
