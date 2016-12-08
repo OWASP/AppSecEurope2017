@@ -330,7 +330,7 @@ nav {
 
 	table.arrowed {
 		width: 100%;
-		font-size: 85%;
+		font-size: 65%;
 		td {
 		    background-color: #9e9e9e;
 		    border-left: #fff solid 1em;
@@ -399,7 +399,10 @@ nav {
 			left: -0.2em;
 		}
 	}
-
+	.nomargins {
+		margin-left: -2em;
+		margin-right: -2em;
+	}
 
 	ul.dates {
 		list-style: none;
@@ -615,6 +618,9 @@ footer {
 			li {
 				width: 100%;
 			}
+		}
+		table.arrowed {
+			width: 90%;
 		}
 
 		x.team-list > li{ width: 50%;}
