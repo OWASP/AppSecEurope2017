@@ -409,7 +409,7 @@ nav {
 		margin: 1.5em 0em;
 		padding: 0;
 		color: #1f5e83;
-		font-size: 90%;
+		font-size: 120%;
 		li {  
 			margin: 0 auto;
 			padding: 0;
@@ -619,6 +619,10 @@ footer {
 				width: 100%;
 			}
 		}
+		ul.dates {
+			font-size: 90%;
+		}
+		
 		table.arrowed {
 			width: 90%;
 		}
