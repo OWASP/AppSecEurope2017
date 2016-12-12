@@ -313,7 +313,7 @@ nav {
 		&.registration {
 			th { width: 25%; }
 			th:first-child { width: 50%; }
-			thead th:nth-child(n+2), td:nth-child(n+2) { text-align: right ; }
+			thead th:nth-child(n+2), td:nth-child(n+2) { text-align: right; white-space: nowrap; }
 		}
 	}
 	section.about {
