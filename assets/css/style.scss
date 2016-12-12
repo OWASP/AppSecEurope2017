@@ -300,6 +300,8 @@ nav {
 			color: #fff;
 			font-weight: bold;
 		}
+		th.hidden, td.hidden { visibility: hidden }
+		tr.blue th, tr.blue td, th.blue, td.blue { background-color: $blue; }
 
 		td {
 			background-color: $gray;
