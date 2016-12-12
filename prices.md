@@ -3,4 +3,4 @@ title: Prices
 ---
 # {{page.title}}
 
-{% include sponsors.html %}
+{% include prices.html %}
