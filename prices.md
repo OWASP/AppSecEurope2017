@@ -3,4 +3,4 @@ title: Prices
 ---
 # {{page.title}}
 
-{% include prices.html %}
+{% include pricing.md %}

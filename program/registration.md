@@ -9,4 +9,4 @@ title: Registration
 The registration link will be here very soon...
 
 
-{% include prices.html %}
+{% include pricing.md %}
