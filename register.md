@@ -96,13 +96,13 @@ Follow this link to get to the registration form:
     </tr>
     <tr>
       <td>Two days</td>
-      <td>€ 1.400</td>
-      <td>€ 1.680</td>
+      <td>€ 1 400</td>
+      <td>€ 1 680</td>
     </tr>
     <tr>
       <td>Three days</td>
-      <td>€ 2.050</td>
-      <td>€ 2.460</td>
+      <td>€ 2 050</td>
+      <td>€ 2 460</td>
     </tr>
   </tbody>
 </table>
