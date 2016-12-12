@@ -10,7 +10,7 @@ Follow this link to get to the registration form:
 
 ## Pricing 
 
-<table>
+<table class="prices">
 <tr><th class="hidden"></th><th>Fees</th><th>Inc. taxes</th></tr>
 <tr class="blue"><th colspan="2">Conference</th><th>20%</th></tr>
 <tr><th colspan="3">Early bird Feb 2016 - March 2016</th></tr>

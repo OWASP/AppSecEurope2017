@@ -536,7 +536,10 @@ nav {
 
 
 
-
+.prices td:nth-child(2), .prices td:nth-child(3) {
+	text-align: right;
+	white-space: nowrap;
+}
 
 
 img.worldmap {
