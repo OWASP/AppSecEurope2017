@@ -11,7 +11,12 @@ OWASP AppSec Europe would like to thank the following supporters for helping to 
 * Copy us in the first communication, provide us with your logo and URL and we will add that to the supporters page on the conference website.
  
 Please note that supporters are not sponsors of the AppSec EU conference, for further information please see the bottom of this page.
- 
+
+<section class="supporters">
+{% for supporter in site.data.supporters %}
+  <a style="background-image: url(/assets/images/supporters/{{supporter.logo}})"></a>
+{% endfor %}
+</section>
 
  
  

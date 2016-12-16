@@ -454,8 +454,21 @@ nav {
 			&.Gold a {
 				width: 220px;
 			}
+		}
 	}
-}
+	.supporters {
+		display: flex;
+		flex-wrap: wrap;
+		margin: 0;
+		justify-content: space-around;
+		a {
+			height: 150px;
+			width: 180px;
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-position: center center;
+		}
+	}
 
 
 	.sellingpoints {
