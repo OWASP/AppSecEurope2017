@@ -14,7 +14,7 @@ Please note that supporters are not sponsors of the AppSec EU conference, for fu
 
 <section class="supporters">
 {% for supporter in site.data.supporters %}
-  <a style="background-image: url(/assets/images/supporters/{{supporter.logo}})"></a>
+  <a style="background-image: url(/assets/images/supporters/{{supporter.logo}})" href="{{supporter.url}}" title="{{supporter.name}}"></a>
 {% endfor %}
 </section>
 
