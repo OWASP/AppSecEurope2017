@@ -10,13 +10,16 @@ conferenceteam:
     image: ConferenceTeam4_Owen_Pendlebury-Training_Chair.jpg
   - name: Thomas Boyle
     role: Team Member
-    image: 
+    image:
   - name: Siobhan Gallagher
     role: Team Member
     image: SiobhanGallagher.jpg
   - name: Martin Knobloch
     role: Speaker Chair
     image: ConferenceTeam3_Martin-Knobloch_Speaker-Chair.png
+  - name: Mark Miller
+    role: DevOps Speaker Chair
+    image: MarkMiller-200x200.jpg
   - name: David Mathy
     role: Team member
     image: 
