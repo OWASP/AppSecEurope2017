@@ -7,11 +7,17 @@
   - logo: Black_Duck_Logo_l.png
     name: BlackDuck
     url:  https://www.blackducksoftware.com/
+  - logo: Checkmarx-Logo.png
+    name: Checkmarx
+    url:  https://www.checkmarx.com/
   - logo: netsparker.png
     name: Netsparker
     url:  https://www.netsparker.com/
 - type: Silver
   sponsors:
+  - logo: whs-logo.png
+    name: WhiteHat Security
+    url:  https://www.whitehatsec.com/
 - type: Lanyard
   sponsors:
   - logo: edgescan.svg
