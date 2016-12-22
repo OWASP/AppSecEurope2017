@@ -1,5 +1,8 @@
 - type: Diamond
   sponsors:
+  - logo: cmegroup_c2_3d.gif
+    name: CME Group
+    url : http://www.cmegroup.com/
 - type: Platinum
   sponsors:
 - type: Gold
