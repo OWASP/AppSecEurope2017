@@ -93,3 +93,14 @@
     </tr>
   </tbody>
 </table>
+
+## Group discounts
+
+The following group discounts apply to ordinary tickets
+
+<table class="registration">
+  <tbody>
+    <tr><td> Group &gt; 5 </td><td> €80 off each ticket</td></tr>
+    <tr><td> Group &gt; 10 </td><td> €100 off each ticket</td></tr>
+  </tbody>
+</table>
