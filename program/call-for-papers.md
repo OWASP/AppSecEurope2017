@@ -1,5 +1,5 @@
 ---
-title: Call for Papers
+title: Call for Papers (closed)
 ---
 
 # {{page.title}}
@@ -30,7 +30,7 @@ To ensure the best talks available are presented at AppSec Europe we are incorpo
   
 ## Submission
  
-To submit a proposal use [https://easychair.org/conferences/?conf=appseceu2017](https://easychair.org/conferences/?conf=appseceu2017)
+**Call for papers is now closed**
  
 The program committee will review your submission based on a descriptive abstract of your intended presentation. Feel free to attach a preliminary version of your presentation if available, or any other supporting materials. Keep in mind: the better your description is, the better our review will be. Please review your proposal thoroughly as accepted abstract and bio submitted will be published 1:1 on our site. If your presentation is accepted for inclusion in the conference program, you are free to submit a white paper describing your work, which will be added to the website. 
  

@@ -1,5 +1,5 @@
 ---
-title: Call for Trainings
+title: Call for Trainings (closed)
 ---
 
 # {{page.title}}
@@ -56,7 +56,7 @@ Your submission is subject to approval by a small core team of the program commi
 
 To submit a proposal, please provide an abstract of your intended training (500 to 1000 characters), a brief biography (400 to 1000 characters), an outline, your instructor experience and basic course information for evaluation by the planning committee.
 
-*[Submission Form](https://easychair.org/conferences/?conf=appseceu2017)*
+**Call for papers is now closed**
 
 
 Upon selection you will be required to submit a completed OWASP Training Instructor Agreement and provide a headshot of the instructor(s).
