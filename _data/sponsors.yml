@@ -5,6 +5,9 @@
     url : http://www.cmegroup.com/
 - type: Platinum
   sponsors:
+  - logo: Synopsys_Logo.jpg
+    name: Synopsys
+    url : https://www.synopsys.com/
 - type: Gold
   sponsors:
   - logo: Arxan.jpg
