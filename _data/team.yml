@@ -65,21 +65,23 @@ cftcommittee:
   - name: Fiona Collins
   - name: Ann Murtgh
 programcommittee:
-  - name: Martin Knobloch
+  - name: Martin Knobloch (Chair)
+  - name: Marco Balduzzi (Co-Chair)
   - name: Michelle Simpson
-  - name: Erlend Oftedal
-  - name: Allison Shubert
-  - name: Boris Hemkemeie
+  - name: Luca Carettoni
+  - name: Matteo Meucci
+  - name: Sebastian Lekies
+  - name: Lieven Desmet
+  - name: Boris Hemkemeier
   - name: Ksenia Dmitrieva
+  - name: Martin Johns
+  - name: Allison Shubert
+  - name: Erlend Oftedal
+  - name: Neil Curran
   - name: Mark Miller
   - name: Antonio Fontes
-  - name: Martin Johns
-  - name: Luca Carettoni
   - name: Alex Kouzemtchenko
-  - name: Lieven Desmet
-  - name: Sebastian Lekies
   - name: Benjamin Livshits
-  - name: Sebastien Deleersnyder
 
 
 
