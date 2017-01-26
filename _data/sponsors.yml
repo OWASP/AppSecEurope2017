@@ -22,6 +22,9 @@
   - logo: netsparker.png
     name: Netsparker
     url:  https://www.netsparker.com/
+  - logo: pt.png
+    name: Positive Technologies
+    url:  https://www.ptsecurity.com/ww-en/
 - type: Silver
   sponsors:
   - logo: whs-logo.png
