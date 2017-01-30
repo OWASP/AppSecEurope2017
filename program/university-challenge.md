@@ -14,4 +14,4 @@ This years UC is a two stage challenge:
 This year the OWASP University Challenge will be limited to 10 teams. Teams will consist of 4-8 students, with one team per university. All team openings are on a first come first serve basis. If multiple teams are received from the same university the second team will be put on a wait list.
 
 Please register your time via this link (Google web form):  
-https://goo.gl/forms/IBTfXKpo5RVTa0T33
+[https://goo.gl/forms/IBTfXKpo5RVTa0T33](https://goo.gl/forms/IBTfXKpo5RVTa0T33)
