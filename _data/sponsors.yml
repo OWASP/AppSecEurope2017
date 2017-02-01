@@ -25,6 +25,9 @@
   - logo: pt.png
     name: Positive Technologies
     url:  https://www.ptsecurity.com/ww-en/
+  - logo: twistlock.jpg
+    name: Twistlock
+    url:  https://www.twistlock.com/
 - type: Silver
   sponsors:
   - logo: whs-logo.png
