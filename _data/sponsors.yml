@@ -3,6 +3,9 @@
   - logo: cmegroup_c2_3d.gif
     name: CME Group
     url : http://www.cmegroup.com/
+  - logo: hpe.svg
+    name: Hewlett Packard Enterprise
+    url : http://www8.hp.com/lamerica_nsc_carib/en/software-solutions/application-security/
 - type: Platinum
   sponsors:
   - logo: Synopsys_Logo.jpg
