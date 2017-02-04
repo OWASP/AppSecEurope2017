@@ -9,7 +9,7 @@
     backgroundSize: 90% auto;
 - type: Platinum
   sponsors:
-  - logo: Synopsys_Logo.jpg
+  - logo: Synopsys_Logo.png
     name: Synopsys
     url : https://www.synopsys.com/
 - type: Gold
