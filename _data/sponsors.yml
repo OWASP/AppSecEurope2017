@@ -6,6 +6,7 @@
   - logo: hpe.svg
     name: Hewlett Packard Enterprise
     url : http://www8.hp.com/lamerica_nsc_carib/en/software-solutions/application-security/
+    bakgroundSize: 270px auto
 - type: Platinum
   sponsors:
   - logo: Synopsys_Logo.jpg
