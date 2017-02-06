@@ -2,13 +2,13 @@
 title: Allstars 2017
 ---
 
-<div style="width: 75%">
-
 <br />
 <br />
 <br />
 
 <img src="../assets/images/allstars.gif">
+
+<div style="width: 75%">
 
 ## Welcome again!
 
