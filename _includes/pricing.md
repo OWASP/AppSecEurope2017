@@ -10,7 +10,7 @@
   </thead>
   <tbody>
     <tr>
-      <th colspan="3">Early bird until January 2017</th>
+      <th colspan="3">Early bird until February 2017</th>
     </tr>
     <tr>
       <td>OWASP member</td>
@@ -28,7 +28,7 @@
       <td>€ 90</td>
     </tr>
     <tr>
-      <th colspan="3">Regular February 2017 - May 2017</th>
+      <th colspan="3">Regular March 2017 - May 2017</th>
     </tr>
     <tr>
       <td>OWASP member</td>

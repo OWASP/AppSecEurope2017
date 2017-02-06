@@ -3,9 +3,13 @@
   - logo: cmegroup_c2_3d.gif
     name: CME Group
     url : http://www.cmegroup.com/
+  - logo: hpe.svg
+    name: Hewlett Packard Enterprise
+    url : http://www8.hp.com/lamerica_nsc_carib/en/software-solutions/application-security/
+    backgroundSize: 90% auto;
 - type: Platinum
   sponsors:
-  - logo: Synopsys_Logo.jpg
+  - logo: Synopsys_Logo.png
     name: Synopsys
     url : https://www.synopsys.com/
 - type: Gold
@@ -19,12 +23,18 @@
   - logo: Checkmarx-Logo.svg
     name: Checkmarx
     url:  https://www.checkmarx.com/
+  - logo: flexera-software.jpg
+    name: Flexera Software
+    url:  https://www.flexerasoftware.com
   - logo: netsparker.png
     name: Netsparker
     url:  https://www.netsparker.com/
   - logo: pt.png
     name: Positive Technologies
     url:  https://www.ptsecurity.com/ww-en/
+  - logo: twistlock.jpg
+    name: Twistlock
+    url:  https://www.twistlock.com/
 - type: Silver
   sponsors:
   - logo: whs-logo.png

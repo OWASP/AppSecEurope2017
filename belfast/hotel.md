@@ -10,7 +10,7 @@ The hotel list below covers a wide range of hotel budgets. Please note that earl
 
 <table style="text-align: left;">
 <tr><th>Hotel Name</th><th>Costs</th><th>Distance from Venue</th><th>Booking Details</th></tr>
-<tr><td><a href="http://www3.hilton.com/en/hotels/united-kingdom/hilton-belfast-BFSHITW/index.html">Hilton Hotel</a></td><td>£125/room</td><td>0 miles</td><td>Call hotel on +44 (0) 2890 277000 quote OWASP</td></tr>
+<tr><td><a href="https://secure3.hilton.com/en_US/hi/reservation/book.htm?ctyhocn=BFSHITW&arrivalDay=07&arrivalMonth=05&arrivalYear=2017&departureDay=13&departureMonth=05&departureYear=2017&spec_plan=GOWAA&datesFlex=false&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT">Hilton Hotel</a></td><td>£125/room</td><td>0 miles</td><td>Call hotel on +44 (0) 2890 277000 quote GOWAA</td></tr>
 <tr><td><a href="https://www.ihg.com/holidayinn/hotels/gb/en/belfast/bfsas/hoteldetail">Holiday Inn Belfast - City Centre</a></td><td>£95/single<br>
 	£105/double</td><td>0.9 miles</td><td>Call hotel on +44 (0) 2890 242494 quoting OWASP</td></tr>
 <tr><td><a href="http://www.malonelodgehotelbelfast.com/en/">Malone Lodge Hotel</a></td><td>£119/room</td><td>1.7 miles</td><td>Call hotel on +44 (0) 2890 388000 quote the
