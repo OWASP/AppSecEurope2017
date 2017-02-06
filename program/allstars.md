@@ -37,5 +37,7 @@ You can think of Allstars 2017 as a conference inside a conference - offering yo
 
 Without them, this event wouldn't be possible. Allstars 2017 is completely independent from OWASP's conference funding.
 
-<img src="../assets/images/sponsors/microsoft.png" style="width: 20em;"> <img src="../assets/images/sponsors/cure53.png" style="width: 10em;"> <img src="../assets/images/sponsors/gdata.png" style="width: 10em;"> <img src="../assets/images/sponsors/google.png" style="width: 20em;">
+<img src="../assets/images/sponsors/microsoft.png" style="width: 20em;" title="Microsoft"> <img src="../assets/images/sponsors/cure53.png" style="width: 10em;" title="Cure53"> 
+
+<img src="../assets/images/sponsors/gdata.png" style="width: 10em;" title="G Data"> <img src="../assets/images/sponsors/google.png" style="width: 20em;" title="Google">
 
