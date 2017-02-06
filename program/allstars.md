@@ -8,7 +8,7 @@ title: Allstars 2017
 <br />
 <br />
 
-<img src="../assets/images/allstars.gif" style="width: 75%">
+<img src="../assets/images/allstars.gif">
 
 ## Welcome again!
 
