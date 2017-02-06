@@ -2,11 +2,13 @@
 title: Allstars 2017
 ---
 
+<div style="width: 75%">
+
 <br />
 <br />
 <br />
 
-<img src="../assets/images/allstars.gif">
+<img src="../assets/images/allstars.gif" style="width: 75%">
 
 ## Welcome again!
 
@@ -43,3 +45,4 @@ Without them, this event wouldn't be possible - thank you sponsors for making it
 
 <img src="../assets/images/sponsors/google.png" style="width: 20em;" title="Google"> <img src="../assets/images/sponsors/gdata.png" style="width: 10em; margin-left: 1em" title="G Data">
 
+</div>
