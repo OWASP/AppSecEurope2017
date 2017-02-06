@@ -29,6 +29,14 @@ You can think of Allstars 2017 as a conference inside a conference - offering yo
 * **Thomas Roth**
 * **Nicolas Grégoire** 
 
-## Sponsors
+## Our Sponsors
 
-* **TBD**
+
+<img src="../assets/images/sponsors/microsoft.png" style="width: 20em;">
+
+<img src="../assets/images/sponsors/cure53.png" style="width: 10em;">
+
+<img src="../assets/images/sponsors/gdata.png" style="width: 10em;">
+
+<img src="../assets/images/sponsors/google.png" style="width: 20em;">
+
