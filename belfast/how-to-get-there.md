@@ -23,3 +23,5 @@ The Waterfront Conference Center and Hilton Hotel are adjoined, allowing delegat
 Visas are not required for delegates traveling from the UK, Ireland or Europe. Belfast is situated in the UK and therefore any international delegates who require visas to travel to the UK should contact their local British Embassy for more information.
 
 Please note, any international delegate arriving into Dublin airport and traveling to Belfast will be crossing the border from the Republic of Ireland into the UK, and this should be taken into account for any visa application.
+
+If you require more information regarding a visa to attend or work in Belfast, please check the UK government visa website at (https://www.gov.uk/check-uk-visa).
