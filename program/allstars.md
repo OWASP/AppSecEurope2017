@@ -41,6 +41,6 @@ We recommend all attendees to have a really good breakfast on 11th. Don't "allst
 
 Without them, this event wouldn't be possible - thank you sponsors for making it happen! Keep in mind, Allstars 2017 is completely independent from OWASP's conference funding.
 
-<img src="../assets/images/sponsors/microsoft.png" style="width: 20em;" title="Microsoft"> <img src="../assets/images/sponsors/cure53.png" style="width: 10em; margin-left: 3em" title="Cure53"> 
+<img src="../assets/images/sponsors/microsoft.png" style="width: 20em;" title="Microsoft - they make Windows"> <img src="../assets/images/sponsors/cure53.png" style="width: 10em; margin-left: 3em" title="Cure53 - they make pentests"> 
 
-<img src="../assets/images/sponsors/google.png" style="width: 20em;" title="Google"> <img src="../assets/images/sponsors/gdata.png" style="width: 10em; margin-left: 3em" title="G Data">
+<img src="../assets/images/sponsors/google.png" style="width: 20em;" title="Google - they have a search engine"> <img src="../assets/images/sponsors/gdata.png" style="width: 10em; margin-left: 3em" title="G Data ADAN - they do advanced stuff">
