@@ -37,7 +37,7 @@ The program committee will review your submission based on a descriptive abstrac
 ## Important dates  
  
 * **Submission deadline:** January 9th, 2017  
-* **Notification of acceptance:** February 6th, 2017  
+* **Notification of acceptance:** End of February 2017  
 * **Conference days:** May 11th – 12th 2017 
 
 ## Program committee
