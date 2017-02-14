@@ -8,10 +8,10 @@
     url  : sponsors
 - title: Program
   items:
+  - title: Training program
+    url: program/training
   - title: Call for papers (closed)
     url: program/call-for-papers
-  - title: Call for trainings (closed)
-    url: program/call-for-trainings
   - title: Call for volunteers
     url: program/call-for-volunteers
   - title: Call for activities

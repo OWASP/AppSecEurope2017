@@ -332,7 +332,15 @@ nav {
 		width: 100%;
 		font-size: 65%;
 		border-collapse: separate;
-
+		&.full {
+			td {
+				width: auto;
+			}
+			th:nth-child(3), th:nth-child(4), th:nth-child(5) {
+				width: 10%;
+				text-align: center;
+			}
+		}
 		td {
 	    background-color: #9e9e9e;
 	    border-right: #fff solid 1em;
@@ -358,7 +366,7 @@ nav {
 	    border-bottom: #fff solid 1.5em;
 	    position: absolute;
 	    top: 0em;
-	    right: -0.75em;
+	    right: -0.70em;
 	    z-index: 2;
 		}
 		td.hidden { 
@@ -384,6 +392,14 @@ nav {
 		}
 		td.white {
 			background-color: #fff;
+			&:after{
+				visibility: hidden;
+			}
+		}
+		td.noarrow {
+			background-color: #fff;
+			color: #000;
+			text-align: left;
 			&:after{
 				visibility: hidden;
 			}
