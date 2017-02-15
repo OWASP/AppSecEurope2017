@@ -352,32 +352,50 @@ nav {
 	    height: 3.2em;
 	    vertical-align: middle;
 	    box-sizing: border-box;
-			background-position: right top;
-			background-size: 0.8em 100%;
+	    border-right: 0.8em solid #fff;
+		}
+		td:after {
+			content: "";
+			height: 100%;
+			width: 0.8em;
+			position: absolute;
+			top: 0em;
+			right: -0.8em;
+			background-position: right center;
+			background-size: 100% 100%;
 			background-repeat: no-repeat;
 			background-image: url(../images/pointed-gray.svg);
 		}
+
 
 		td.hidden { 
 			visibility: hidden;
 		}
 		td.orange {
 			background-color: $orange;
-			background-image: url(../images/pointed-orange.svg);
+			&:after {
+				background-image: url(../images/pointed-orange.svg);
+			}
 		}
 		td.blue {
 			background-color: $blue-medium;
-			background-image: url(../images/pointed-blue.svg);
+			&:after {
+				background-image: url(../images/pointed-blue.svg);
+			}
 		}
 		td.green {
 			background-color: $green;
-			background-image: url(../images/pointed-green.svg);
+			&:after {
+				background-image: url(../images/pointed-green.svg);
+			}
 		}
 		td.noarrow, td.white {
 			background-color: #fff;
 			color: #000;
 			text-align: left;
-			background-image: none;
+			&:after {
+				background-image: none;
+			}
 		}
 		ul.legend {
 			color: #000;
