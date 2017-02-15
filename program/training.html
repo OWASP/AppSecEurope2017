@@ -6,17 +6,12 @@ title: Trainings
 
 <div class="nomargins">
 	<table class="arrowed full" style="max-width: 99em; font-size: 90%">
-<tr><th>Trainer</th><th>Training</th><th>Mon 8th May</th><th  style="width: 10%">Tue 9th May</th><th>Wed 10th May</th></tr>
-<tr><td class="noarrow">Mario Heiderich</td><td class="noarrow"><a href="https://appseceurope2017.sched.com/event/9hMQ/exploiting-websites-by-using-offensive-html-svg-css-and-other-browser-evil">Exploiting Websites by using offensive HTML, SVG, CSS and other Browser-Evil</a></td><td colspan="3" class="green"></td></tr>
-<tr><td class="noarrow">Robert Seacord</td><td class="noarrow"><a href="https://appseceurope2017.sched.com/event/9hMT/secure-coding-in-java">Secure coding in Java</a></td><td colspan="3" class="green"></td></tr>
-<tr><td class="noarrow">Dinesh Shetty</td><td class="noarrow"><a href="https://appseceurope2017.sched.com/event/9hMW/hands-on-mobile-application-exploitation-ios-android">Hands-on Mobile Application Exploitation - iOS & Android</a></td><td colspan="3" class="green"></td></tr>
-<tr><td class="noarrow">Michael Born and Fred Donovan</td><td class="noarrow"><a href="https://appseceurope2017.sched.com/event/9hMZ/hands-on-web-exploitation-with-python">Hands on Web Exploitation with Python</a></td><td colspan="3" class="green"></td></tr>
-<tr><td class="noarrow">Vladislav Mladenov and Christian Mainka</td><td class="noarrow"><a href="https://appseceurope2017.sched.com/event/9hMo/systematically-breaking-and-fixing-single-sign-on">Systematically Breaking and Fixing Single Sign-On</a></td><td colspan="3" class="green"></td></tr>
-<tr><td class="noarrow">Sebastien Deleersnyder</td><td class="noarrow"><a href="https://appseceurope2017.sched.com/event/9hMb/whiteboard-hacking-aka-hands-on-threat-modeling">Whiteboard Hacking aka Hands-on Threat Modeling<a></td><td class="noarrow"></td><td colspan="2" class="green"></td></tr>
-<tr><td class="noarrow">Anto Joseph Clarence chio</td><td class="noarrow"><a href="https://appseceurope2017.sched.com/event/9hMd/making-breaking-machine-learning-systems">Making & Breaking Machine Learning Systems</a></td><td class="noarrow"></td><td colspan="2" class="green"></td></tr>
-<tr><td class="noarrow">Aaron Weaver and Matt Tesauro</td><td class="noarrow"><a href="https://appseceurope2017.sched.com/event/9hMf/automating-your-own-appsec-pipeline-with-docker-and-serverless-computing">Automating your own AppSec Pipeline with Docker and Serverless Computing</a></td><td class="noarrow"></td><td colspan="2" class="green"></td></tr>
-<tr><td class="noarrow">Fabio Cerullo</td><td class="noarrow"><a href="https://appseceurope2017.sched.com/event/9hMh/web-application-security-essentials">Web Application Security Essentials</a></td><td class="noarrow"><td colspan="2" class="green"></td></tr>
-<tr><td class="noarrow">Abhay Bhargav</td><td class="noarrow"><a href="https://appseceurope2017.sched.com/event/9hMj/hands-on-workshop-on-security-in-devops-secdevops-v-20">Hands-on Workshop on Security in DevOps (SecDevOps) v 2.0</a></td><td class="noarrow"></td><td colspan="2" class="green"></td></tr>
-<tr><td class="noarrow">Slawomir Jasek</td><td class="noarrow"><a href="https://appseceurope2017.sched.com/event/9hMl/smart-lockpicking-hands-on-exploiting-software-flaws-in-iot">Smart lockpicking - hands-on exploiting software flaws in IoT</a></td><td class="noarrow"></td><td colspan="2" class="green"></td></tr>
+<tr><th>Training</th><th>Mon 8th May</th><th  style="width: 10%">Tue 9th May</th><th>Wed 10th May</th></tr>
+{% for training in site.data.trainings %}
+	<tr><td class="noarrow"><a href="{{ training.url}}">{{training.title}}</a> - {{training.trainers}}</td>
+		{% assign skip = 3 | minus: training.length %}{% for i in (1..skip) %}<td class="noarrow"></td>{% endfor %}
+		<td colspan="{{ training.length }}" class="green"></td>
+	</tr>
+{% endfor %}
 </table>
 </div>

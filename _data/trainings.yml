@@ -1,0 +1,44 @@
+- trainers: Mario Heiderich
+  url: https://appseceurope2017.sched.com/event/9hMQ/exploiting-websites-by-using-offensive-html-svg-css-and-other-browser-evil
+  title: Exploiting Websites by using offensive HTML, SVG, CSS and other Browser-Evil
+  length: 3
+- trainers: Robert Seacord
+  url: https://appseceurope2017.sched.com/event/9hMT/secure-coding-in-java
+  title: Secure coding in Java
+  length: 3
+- trainers: Dinesh Shetty
+  url: https://appseceurope2017.sched.com/event/9hMW/hands-on-mobile-application-exploitation-ios-android
+  title: Hands-on Mobile Application Exploitation - iOS & Android
+  length: 3
+- trainers: Michael Born and Fred Donovan
+  url: https://appseceurope2017.sched.com/event/9hMZ/hands-on-web-exploitation-with-python
+  title: Hands on Web Exploitation with Python
+  length: 3
+- trainers: Vladislav Mladenov and Christian Mainka
+  url: https://appseceurope2017.sched.com/event/9hMo/systematically-breaking-and-fixing-single-sign-on
+  title: Systematically Breaking and Fixing Single Sign-On
+  length: 3
+- trainers: Sebastien Deleersnyder
+  url: https://appseceurope2017.sched.com/event/9hMb/whiteboard-hacking-aka-hands-on-threat-modeling
+  title: Whiteboard Hacking aka Hands-on Threat Modeling
+  length: 2
+- trainers: Anto Joseph Clarence chio
+  url: https://appseceurope2017.sched.com/event/9hMd/making-breaking-machine-learning-systems
+  title: Making & Breaking Machine Learning Systems
+  length: 2
+- trainers: Aaron Weaver and Matt Tesauro
+  url: https://appseceurope2017.sched.com/event/9hMf/automating-your-own-appsec-pipeline-with-docker-and-serverless-computing
+  title: Automating your own AppSec Pipeline with Docker and Serverless Computing
+  length: 2
+- trainers: Fabio Cerullo
+  url: https://appseceurope2017.sched.com/event/9hMh/web-application-security-essentials
+  title: Web Application Security Essentials
+  length: 2
+- trainers: Abhay Bhargav
+  url: https://appseceurope2017.sched.com/event/9hMj/hands-on-workshop-on-security-in-devops-secdevops-v-20
+  title: Hands-on Workshop on Security in DevOps (SecDevOps) v 2.0
+  length: 2
+- trainers: Slawomir Jasek
+  url: https://appseceurope2017.sched.com/event/9hMl/smart-lockpicking-hands-on-exploiting-software-flaws-in-iot
+  title: Smart lockpicking - hands-on exploiting software flaws in IoT
+  length: 2
