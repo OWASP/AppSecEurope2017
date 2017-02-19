@@ -327,6 +327,31 @@ nav {
 			text-align: initial;
 		}
 	}
+	section.blue {
+		background: $blue;
+		color: #fff;
+		margin-left: -5em;
+		margin-right: -5em;
+		margin-top: 2em;
+		margin-bottom: 2em;
+		padding-left: 5em;
+		padding-right: 5em;
+		padding-top: 2em;
+		padding-bottom: 3em;
+		text-align: center;
+		a {
+			color: #fff;
+		}
+		h2 {
+			font-size: 200%;
+		}
+	}
+	ul.flex {
+		list-style: none;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-around;
+	}
 
 	table.arrowed {
 		width: 100%;
@@ -419,6 +444,8 @@ nav {
 			}
 		}
 	}
+
+
 
 	.nomargins {
 		margin-left: -2em;

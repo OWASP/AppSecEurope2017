@@ -69,7 +69,17 @@ title: OWASP AppSec Europe 2017
 </ul></li></ul>
 </section>
 
-<hr>
+<section class="blue">
+<h2 style="text-align: center">Latest news about the conference</h2>
+<div style="display: flex; justify-content: space-around; ">
+<ul style="text-align: left;">
+{% for article in site.data.news | limit:3 %}
+<li><a href="{{article.url}}">{{article.title}}</a></li>
+{% endfor %}
+</ul>
+</div>
+</section>
+
 
   <h2 style="text-align: center">Thank you AppSec Europe 2017 Sponsors</h2>
   {% include sponsors.html %}
