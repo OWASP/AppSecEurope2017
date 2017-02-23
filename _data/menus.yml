@@ -10,6 +10,10 @@
   items:
   - title: Training program
     url: program/training
+  - title: Allstars 2017
+    url: program/allstars
+  - title: Women in AppSec
+    url: program/women-in-appsec
   - title: Call for papers (closed)
     url: program/call-for-papers
   - title: Call for volunteers
@@ -24,8 +28,6 @@
     url: program/project-and-developer-summit
   - title: University challenge
     url: program/university-challenge
-  - title: Allstars 2017
-    url: program/allstars
 - title: Belfast
   items:
   - title: Venue
