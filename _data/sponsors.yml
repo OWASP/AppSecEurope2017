@@ -37,6 +37,9 @@
     url:  https://www.twistlock.com/
 - type: Silver
   sponsors:
+  - logo: INI_corporate_isolated.jpg
+    name: Invest Northern Ireland
+    url:  https://www.investni.com/invest
   - logo: whs-logo.png
     name: WhiteHat Security
     url:  https://www.whitehatsec.com/
@@ -55,6 +58,9 @@
   sponsors:
 - type: CTF Awards
   sponsors:
+  - logo: INI_corporate_isolated.jpg
+    name: Invest Northern Ireland
+    url:  https://www.investni.com/invest
 - type: UC Awards
   sponsors:
   - logo: allstate_northern_ireland.png
