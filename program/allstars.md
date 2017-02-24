@@ -10,7 +10,7 @@ title: Allstars 2017
 
 ## Welcome again!
 
-After our usual one year break, we are happy to bring back the awesomeness and present another edition of Allstars. This time taking place in the beautiful town of Belfast, alongside the OWASP AppSec EU 2017 conference. Allstars 2017 will happen on <b>11th of May 2017</b> and take an entire day from morning to evening.
+After our usual one year break, we are happy to bring back the awesomeness and present another edition of Allstars. This time taking place in the beautiful town of Belfast, alongside the OWASP AppSec EU 2017 conference. Allstars 2017 will happen on <strong>11th of May 2017</strong> and take an entire day from morning to evening.
 
 ## What is all this?
 
@@ -18,7 +18,7 @@ Allstars 2017 is delivering in one full day what's known to be the finest, hand-
 
 You can think of Allstars 2017 as a conference inside a conference - offering you one day with the most interesting influencers in today’s web application &amp; general IT (in-)security. Allstars 2017 is a dedicated invited-speakers track at the OWASP AppSec EU 2017 conference.
 
-Allstars 2017 itself <b>is free</b>. You only need to have a ticket for the OWASP conference to get in.
+Allstars 2017 itself <strong>is free</strong>. You only need to have a ticket for the OWASP conference to get in.
 
 We recommend all attendees to have a really good breakfast on 11th. Don't "allstar" on an empty belly.
 
