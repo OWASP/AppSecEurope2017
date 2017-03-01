@@ -32,6 +32,9 @@
   - logo: pt.png
     name: Positive Technologies
     url:  https://www.ptsecurity.com/ww-en/
+  - logo: rapid7.png
+    name: Rapid7
+    url:  https://www.rapid7.com
   - logo: twistlock.jpg
     name: Twistlock
     url:  https://www.twistlock.com/
