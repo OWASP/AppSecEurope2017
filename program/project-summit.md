@@ -1,5 +1,5 @@
 ---
-title: Project and developer summit
+title: Project summit
 ---
 
 # {{page.title}}
