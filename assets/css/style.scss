@@ -443,6 +443,12 @@ nav {
 				left: -0.2em;
 			}
 		}
+		td.wia { 
+			background-color: #c5008f;
+			&:after {
+				background-image: url(../images/pointed-wia.svg);
+			}
+		}
 	}
 
 

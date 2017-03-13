@@ -82,7 +82,37 @@ programcommittee:
   - name: Antonio Fontes
   - name: Alex Kouzemtchenko
   - name: Benjamin Livshits
-
-
-
-
+wiateam:
+- name : Michelle Simpson
+  title: Security Consultant at NCC Group
+  image: michelle.png
+- name : Claire Burn
+  title: Field Applications Engineer at Titan-IC 
+  image: claire.png
+- name : Cathy Hall
+  title: Principal Consultant at Sila Solutions Group
+  image: cathy.png
+- name : Owen Pendelbury
+  title: Manager Cyber Risk Services - Penetration Testing @ Deloitte
+  image: owen.png
+- name : Zoe Braiterman
+  title: Business Studies graduate from Drew University
+  image: zoe.png
+- name : Wendy Istvanick
+  title: Object Tactician at ThoughtWorks
+  image: wendy.png
+- name : Fiona Collins
+  title: IT Security Engineer, Staff at Qualcomm
+  image: fiona.png
+- name : Bev Corwin
+  title: Director of Technology at DDC
+  image: bev.png
+- name : Loredana Mancini
+  title: Chief Operation Officer at ITWAY
+  image: loredana.png
+- name : Emily Verwee
+  title: Online Project Manager at The Arc of the United States
+  image: emily.png
+- name : Tiffany Long
+  title: Community Manager at OWASP
+  image: tiffany.png
