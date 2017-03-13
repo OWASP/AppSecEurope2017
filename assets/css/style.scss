@@ -451,7 +451,10 @@ nav {
 		}
 	}
 
-
+	&.wia {
+		h2 { color: #c5008f }
+		h3 { color: #0077a8 }
+	}
 
 	.nomargins {
 		margin-left: -2em;

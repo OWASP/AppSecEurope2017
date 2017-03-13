@@ -1,8 +1,10 @@
 ---
 title: Women in AppSec
+additionalclass: wia
 ---
 
-# Women in AppSec @ AppSec EU 2017
+<h1>Women in AppSec @ AppSec EU 2017</h1>
+
 <div style="text-align: center;"> 
 <img src="/assets/images/WIA_Logo-215x300.png" style="float: none; width: 120px; margin: 0px 0px 1em 0px;">
 </div>
@@ -20,7 +22,7 @@ title: Women in AppSec
 </table>
 </div>
 
-<h2 style="color: #c5008f">Women in AppSec</h2>
+## Women in AppSec
 
 Women in AppSec is kicking it up a notch at AppSec EU 2017 and we want YOU to join us! Make sure you stop by during the week to check out our events and to learn more about the group.
 
@@ -45,7 +47,7 @@ Not sure if you’re interested yet? Provide your email address for updates as t
 
 **We look forward to seeing you at AppSec EU 2017!**
 
-<h2 style="color: #c5008f">Meet the EU WIA planning team</h2>
+## Meet the EU WIA planning team
 
 <ul class="team-list">
 {% for member in site.data.team.wiateam %}
@@ -57,7 +59,7 @@ Not sure if you’re interested yet? Provide your email address for updates as t
 {% endfor %}
 </ul>
 
-<h2 style="color: #c5008f">About Women in AppSec</h2>
+## About Women in AppSec
 
 WIA launched in 2011, and this year it became an official committee of OWASP. The purpose of the Women in AppSec (WIA) committee is to develop leadership, promote active membership and participation, and contributions by women in application security professional communities, globally and locally.
 
