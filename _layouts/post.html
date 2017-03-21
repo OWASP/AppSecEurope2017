@@ -1,0 +1,7 @@
+{% include header.html %}
+<div class="main">
+	<h2>{{page.title}}</h2>
+	<i>{{page.date | date_to_long_string }}</i>
+	{{content}}
+</div>
+{% include footer.html %}

@@ -28,6 +28,8 @@
     url: program/university-challenge
 - title: Belfast
   items:
+  - title: Blog
+    url  : belfast/blog
   - title: Venue
     url  : belfast/venue
   - title: Conference dinner
