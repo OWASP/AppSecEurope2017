@@ -26,15 +26,18 @@ additionalclass: wia
 
 Women in AppSec is kicking it up a notch at AppSec EU 2017 and we want YOU to join us! Make sure you stop by during the week to check out our events and to learn more about the group.
 
-<p style="font-size: 120%">
+<p><div style="font-size: 120%">
 Monday, May 8, 2017<br>
-<span style="color: #c5008f">Networking Session</span>
+<span style="color: #c5008f">Networking Session</span></div>
+On Monday 8th May at 7pm in the Waterfront Conference Centre, we will have a group of mentors each give a brief talk about their experience followed by an "unconference" event. During the "unconference" event, we will break into groups to discuss popular technical topics. This will be a fantastic opportunity to engage in mentoring relationships and hear from women in the field.
+You can <a href="https://www.meetup.com/OWASP-Belfast/events/238434511/">sign up for this free event on Meetup.com</a> 
 </p>
 
-<p style="font-size: 120%">
+<p><div style="font-size: 120%">
 Thursday, May 11, 2017<br> 
 7:30-8:45 a.m.<br>
-<span style="color: #c5008f">Mentoring Breakfast</span>
+<span style="color: #c5008f">Mentoring Breakfast</span></div>
+Join us at our pre-conference WiA breakfast in the Waterfront Conference Centre at 7.30am on Thursday 11th May. A light breakfast will be provided for table discussions on various topics. This will also be a second opportunity to chat with anyone you didn't get to during the Monday evening event. Details to register for this event will be available soon, it will also be free to attend.
 </p>
 
 
