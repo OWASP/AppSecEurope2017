@@ -1,16 +1,12 @@
 ---
-
 title: Welcome to the real Westeros
-
 ---
 
-
-
-<div style="float: right; width: 25%; padding-left: 1em;">
-<img src="/assets/images/belfast-blog/30013_Game_of_Thrones_at_Castle_Ward.jpg" style="width:100%">
-<img src="/assets/images/belfast-blog/26376_The_Dark_Hedges.jpg" style="width:100%">
-<img src="/assets/images/belfast-blog/16539_Game_of_Thrones_-_Inch_Abbey.jpg" style="width:100%">
-<img src="/assets/images/belfast-blog/16528_Game_of_Thrones_-_Tollymore_Forest_Park.jpg" style="width:100%">
+<div class="blog-sidebar-images">
+<img src="/assets/images/belfast-blog/30013_Game_of_Thrones_at_Castle_Ward.jpg">
+<img src="/assets/images/belfast-blog/26376_The_Dark_Hedges.jpg">
+<img src="/assets/images/belfast-blog/16539_Game_of_Thrones_-_Inch_Abbey.jpg">
+<img src="/assets/images/belfast-blog/16528_Game_of_Thrones_-_Tollymore_Forest_Park.jpg">
 </div>
 
 We’re willing to bet good money that there are more than a few Game of Thrones fans amongst the AppSec Community, who should be properly excited about the prospect of coming to Belfast for AppSec Europe 2017.
