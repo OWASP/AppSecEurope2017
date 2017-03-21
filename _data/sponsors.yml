@@ -49,6 +49,11 @@
   - logo: whs-logo.png
     name: WhiteHat Security
     url:  https://www.whitehatsec.com/
+- type: Pre-conference
+  sponsors:
+  - logo: MCS_Logo_Colour.png
+    name: MCS Group Belfast
+    url:  www.mcsgroup.jobs
 - type: Lanyard
   sponsors:
   - logo: edgescan.svg
