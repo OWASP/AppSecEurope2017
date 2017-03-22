@@ -1,7 +1,7 @@
 {% include header.html %}
 <div class="main">
 	<h2>{{page.title}}</h2>
-	<i>{{page.date | date_to_long_string }}</i>
+	<div style="font-style: italic; margin-bottom: 1em;"><i>{{page.date | date_to_long_string }}</i> by AppSec Team<br></div>
 	{{content}}
 </div>
 {% include footer.html %}
