@@ -16,16 +16,18 @@
     url: program/training
   - title: Allstars 2017
     url: program/allstars
+  - title: Call for volunteers
+    url: program/call-for-volunteers
+  - title: University challenge
+    url: program/university-challenge
   - title: Women in AppSec
     url: program/women-in-appsec
   - title: Developer summit
     url: program/developer-summit
   - title: Project summit
     url: program/project-summit
-  - title: Call for volunteers
-    url: program/call-for-volunteers
-  - title: University challenge
-    url: program/university-challenge
+  - title: Project reviews at the summit
+    url: program/project-reviews
 - title: Belfast
   items:
   - title: Blog
