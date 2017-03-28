@@ -30,6 +30,7 @@ Events are free to attend and do not require a conference ticket.
 
 <p><div style="font-size: 120%">
 Monday, May 8, 2017<br>
+6:00-9:00 pm<br>
 <span style="color: #c5008f">Networking Session</span></div>
 On Monday 8th May at 6:00 pm in the Waterfront Conference Centre, we will have a group of mentors each give a brief talk about their experience followed by an "unconference" event. During the "unconference" event, we will break into groups to discuss popular technical topics. This will be a fantastic opportunity to engage in mentoring relationships and hear from women in the field.
 You can sign up for this free event on Meetup.com here:  
