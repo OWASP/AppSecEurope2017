@@ -15,8 +15,8 @@ additionalclass: wia
 <tr><td colspan="3">Training Courses</td><td colspan="2">Main Conference Talks</td></tr>
 <tr><td>Schools Outreach</td><td colspan="2">University Challenge</td><td colspan="2">Capture The Flag</td></tr>
 <tr><td>Adults Outreach</td><td colspan="2">OWASP Project Summit</td><td colspan="2">Sponsor Exhibits</td></tr>
-<tr><td class="wia">WIA & WWC Networking Event</td><td class="white"></td><td>Social Event</td><td colspan="2">Activities and Arsenal</td></tr>
-<tr><td colspan="3" class="white"></td><td colspan="2">Lightning Talks and Training</td></tr>
+<tr><td class="wia">WIA & WWC Networking Event</td><td colspan="2">OWASP Developer Summit</td><td colspan="2">Activities and Arsenal</td></tr>
+<tr><td colspan="2" class="white"></td><td>Social Event</td><td colspan="2">Lightning Talks and Training</td></tr>
 <tr><td colspan="3" class="white"></td><td>Conference Dinner</td></tr>
 <tr><td colspan="3" class="white"></td><td colspan="1" class="wia">WIA Breakfast</td></tr>
 </table>
