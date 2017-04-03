@@ -63,9 +63,25 @@ Requirements: [To be announced]
 ### Day 2: Half Day Afternoon Session
 Date: Wednesday, May 10th  
 Time: 1pm - 5pm  
-Presenter: TBD  
+Presenters: Nicole Becher & Mordecai Kraushar  
 
-Details will be available soon!
+**Attacking your web app**
+
+There are some great OWASP projects that deal with both methodologies and tools for testing web sites. There may be even more to it! This workshop will provide the developer with a look at the offensive mindset an attacker has in attacking your web site
+
+We will go through:
+
+* Using automated scanning tools against the app
+* Using ZAP we will look at a few things you can do as a proxy
+* Use sqlmap to enumerate and inject into databases
+* How to go after those non-technical app vulnerabilities
+
+Requirements:
+
+* On a Virtual Machine a recent copy of Kali
+* On a Virtual Machine a copy of the Broken Web Application Distribution
+* The OWASP Juice Shop project
+
 
 
 
