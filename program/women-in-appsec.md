@@ -76,6 +76,10 @@ Not sure if you’re interested yet? Provide your email address for updates as t
 {% endfor %}
 </ul>
 
+
+## Want to sponsor the Women in AppSec?
+Great! Please see [the sponsor document](/assets/docs/AppSecEUConferenceWIASponsorshipOpportunities.pdf).
+
 ## About Women in AppSec
 
 WIA launched in 2011, and this year it became an official committee of OWASP. The purpose of the Women in AppSec (WIA) committee is to develop leadership, promote active membership and participation, and contributions by women in application security professional communities, globally and locally.
