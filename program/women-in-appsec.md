@@ -77,7 +77,7 @@ Not sure if you’re interested yet? Provide your email address for updates as t
 </ul>
 
 
-## Want to sponsor the Women in AppSec?
+## Want to sponsor Women in AppSec?
 Great! Please see [the sponsor document](/assets/docs/AppSecEUConferenceWIASponsorshipOpportunities.pdf).
 
 ## About Women in AppSec
