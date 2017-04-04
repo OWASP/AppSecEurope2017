@@ -22,6 +22,18 @@ Allstars 2017 itself <strong>is free</strong>. You only need to have a ticket fo
 
 We recommend all attendees to have a really good breakfast on 11th. Don't "allstar" on an empty belly.
 
+## Preliminary Allstars 17 Schedule
+
+* Opening Note, Mario Heiderich
+* Nicolas Grégoire, "Nearly generic fuzzing of XML-based formats"
+* Michele Orrú, "Phishing your way through Two-Factor Authentication"
+* Hasherezade, "Wicked malware persistence methods"
+* Thomas Roth, TBD
+* Astera Schneeweisz, "Building security teams"
+* Gareth Heyes, "DOM based Angular sandbox escapes"
+* Filedescrptor, TBD
+* Closing Note, Mario Heiderich
+
 ## Important dates  
 
 * **Allstars 2017 Speaker Dinner (invite-only):** May 10th 2017 
