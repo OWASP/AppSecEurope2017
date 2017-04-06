@@ -52,4 +52,21 @@ Food and beverages are provided during the project summit and participants are t
 
 ## Pre-Conference Social Event
 
-AppSecEU is hosting a drinks reception at the conference venue on the Wednesday night, just before the main conference days. Snacks and drinks will be served in the sponsors’ hall, where delegates and sponsors can socialize with the local business community. Delegates holding tickets for the main conference (or training courses) can attend the drinks reception for free. Local business leaders will be invited to extend the reach of the conference to the local business community.
+
+On Wednesday 10th May,  AppSec EU 2017 is hosting a drinks reception in the Sponsors area, at the Waterfront Hall, from 5pm - 9pm.  With the generous sponsorship of MCS and the ongoing support of Invest NI, we will be welcoming delegates, local NI businesses and the Northern Irish technology community to a gala networking evening.
+
+This will be an informative event aimed at helping software and IT businesses from across Northern Ireland, gain first-hand access to the AppSecEU 2017 speakers, OWASP community, sponsors and delegates from across the globe.   This is a unique opportunity to network with professionals from the international cyber security community.  There will also be taster sessions of the products and services available.
+
+The evening will kick-off with a welcome address from Alastair Hamilton, Chief Executive of Invest Northern Ireland.  Glen Russell, Director of Engineering, from Anomali will also say a few words. 
+
+The highlight of the evening will be a Panel led by CSIT, on ‘How Ireland can build a world class cyber security start-up industry to rival Israel or Silicon Valley' which will cover the following topics:
+
+* How Ireland can compete on the global state as a destination of choice for cyber security start-ups
+* The role of government, education and industry in creating the conditions necessary for a thriving cyber security start-up culture
+* The key challenges in building a cyber security start-up in Ireland
+* The importance of a successful national cyber security eco system
+* The 'secrets of success' of established cyber security entrepreneurs 
+
+**If cyber security keeps you awake at night then please join us for an enjoyable and informative evening in an informal setting**.  Thanks to the generous sponsorship of MCS Group and the ongoing support of Invest NI, delegates holding tickets for the Conference or the Training sessions can attend this event for free.   Local businesses will be invited by Invest NI, to extend the reach of the Conference.  
+
+**Drinks will be served from 5pm, with the Panel commencing at 5.30pm.**
