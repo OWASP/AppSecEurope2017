@@ -41,6 +41,9 @@
   - logo: rapid7.png
     name: Rapid7
     url:  https://www.rapid7.com
+  - logo: sonatype_logo_whiteBG.png
+    name: Sonatype
+    url:  https://www.sonatype.com/
   - logo: twistlock.jpg
     name: Twistlock
     url:  https://www.twistlock.com/
@@ -49,6 +52,9 @@
   - logo: INI_corporate_isolated.jpg
     name: Invest Northern Ireland
     url:  https://www.investni.com/invest
+  - logo: intuition.png
+    name: Intuition
+    url:  https://www.intuition.com
   - logo: jscrambler-logo-white-background.png
     name: jscrambler
     url:  https://www.jscrambler.com 
