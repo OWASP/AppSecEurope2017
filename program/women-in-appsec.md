@@ -44,6 +44,10 @@ Thursday, May 11, 2017<br>
 Join us at our pre-conference WiA breakfast in the Waterfront Conference Centre at 7.30 am on Thursday 11th May. A light breakfast will be provided for table discussions on various topics. This will also be a second opportunity to chat with anyone you didn't get to during the Monday evening event. Details to register for this event will be available soon, it will also be free to attend.
 </p>
 
+## Wondering what to expect?
+Organisers Michelle and Claire discuss what you can expect here:  
+[https://drive.google.com/open?id=0B3mw0mZ4CcgtbG5FUDJxbzVqX28](https://drive.google.com/open?id=0B3mw0mZ4CcgtbG5FUDJxbzVqX28)
+
 
 ## Interested in being a Mentor?
 We’re looking for mentors to participate in both events. Both men and women are invited to contribute as mentors. This is the commitment we’re asking for:
