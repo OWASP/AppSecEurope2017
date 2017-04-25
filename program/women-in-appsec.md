@@ -80,8 +80,11 @@ Not sure if you’re interested yet? Provide your email address for updates as t
 {% endfor %}
 </ul>
 
+## These are the kind sponsors of Women in Appsec at AppSec Europe 2017
+{% include wia-sponsors.html %}
 
-## Want to sponsor Women in AppSec?
+
+### Want to sponsor Women in AppSec?
 Great! Please see [the sponsor document](/assets/docs/AppSecEUConferenceWIASponsorshipOpportunities.pdf).
 
 ## About Women in AppSec

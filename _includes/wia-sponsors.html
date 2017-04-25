@@ -1,0 +1,12 @@
+<section class="sponsors">
+{% for sponsortype in site.data.wiasponsors %}
+	{% if sponsortype.sponsors %}
+  	<h3>{{ sponsortype.type }} sponsors</h3>
+	  <div class="{{ sponsortype.type }}">
+		{% for sponsor in sponsortype.sponsors %}
+	    <a style="background-image: url(/assets/images/sponsors-wia/{{sponsor.logo}});{% if sponsor.backgroundSize %}background-size: {{sponsor.backgroundSize}};{% endif %}" title="{{sponsor.name}}" href="{{sponsor.url}}"></a>
+	  {% endfor %}
+	  </div>
+  {% endif %}
+{% endfor %}
+</section>
