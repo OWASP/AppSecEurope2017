@@ -74,7 +74,7 @@ title: OWASP AppSec Europe 2017
 <h2 style="text-align: center">Latest news about the conference</h2>
 <div style="display: flex; justify-content: space-around; ">
 <ul style="text-align: left;">
-{% for article in site.data.news reversed | limit:3 %}
+{% for article in site.data.news | limit:3 %}
 <li><a href="{{article.url}}">{{article.title}}</a></li>
 {% endfor %}
 </ul>
