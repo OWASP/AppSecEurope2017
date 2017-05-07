@@ -64,6 +64,9 @@
   - logo: whs-logo.png
     name: WhiteHat Security
     url:  https://www.whitehatsec.com/
+  - logo: Waratek_Horz_RGB201.jpg
+    name: Waratek
+    url:  https://www.waratek.com/
 - type: Pre-conference
   sponsors:
   - logo: MCS_Logo_Colour.png
