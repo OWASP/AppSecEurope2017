@@ -25,13 +25,14 @@ We recommend all attendees to have a really good breakfast on 11th. Don't "allst
 ## Preliminary Allstars 17 Schedule
 
 * Opening Note, Mario Heiderich
-* Nicolas Grégoire, "Nearly generic fuzzing of XML-based formats"
+* Mario Heiderich, "My Sweet Innocence Exposed - Eleven Reasons why we will all miss you, "e""
 * Michele Orrú, "Phishing your way through Two-Factor Authentication"
 * Hasherezade, "Wicked malware persistence methods"
-* Thomas Roth, TBD
+* Thomas Roth, TBA
+* Alex Inführ, "PDF - A file format that never stops giving"
 * Astera Schneeweisz, "Building security teams"
 * Gareth Heyes, "DOM based Angular sandbox escapes"
-* Filedescrptor, TBD
+* Filedescrptor, TBA
 * Closing Note, Mario Heiderich
 
 ## Important dates  
@@ -49,7 +50,6 @@ We recommend all attendees to have a really good breakfast on 11th. Don't "allst
 * **Astera Schneeweisz** [@astera](https://twitter.com/astera)
 * **Alex Inführ** [@insertScript](https://twitter.com/insertScript)
 * **Thomas Roth** [@stacksmashing](https://twitter.com/stacksmashing)
-* **Nicolas Grégoire** [@agarri_fr](https://twitter.com/agarri_fr)
 
 ## Our Sponsors
 
