@@ -32,7 +32,7 @@ We recommend all attendees to have a really good breakfast on 11th. Don't "allst
 * Alex Inführ, "PDF - A file format that never stops giving"
 * Astera Schneeweisz, "Building security teams"
 * Gareth Heyes, "DOM based Angular sandbox escapes"
-* Filedescrptor, TBA
+* filedescriptor, "Exploiting the unexploitable with lesser known browser tricks"
 * Closing Note, Mario Heiderich
 
 ## Important dates  
