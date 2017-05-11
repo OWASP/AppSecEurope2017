@@ -28,7 +28,7 @@ We recommend all attendees to have a really good breakfast on 11th. Don't "allst
 * Mario Heiderich, "My Sweet Innocence Exposed - Eleven Reasons why we will all miss you, "e""
 * Michele Orrú, "Phishing your way through Two-Factor Authentication"
 * Hasherezade, "Wicked malware persistence methods"
-* Thomas Roth, TBA
+* Thomas Roth, "The hidden OS in smart phones"
 * Alex Inführ, "PDF - A file format that never stops giving"
 * Astera Schneeweisz, "Building security teams"
 * Gareth Heyes, "DOM based Angular sandbox escapes"
