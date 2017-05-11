@@ -104,3 +104,5 @@ The following group discounts apply to ordinary tickets
     <tr><td> Group &gt; 10 </td><td> €100 off each ticket</td></tr>
   </tbody>
 </table>
+
+Note that people holding a student or exhibitor badge do not get a free ticket to the conference dinner!
