@@ -1,13 +1,7 @@
-- title: Register
-  url  : register
 - title: Sponsors
   items:
-  - title: Become a sponsor
-    url  : sponsoring
   - title: Sponsors
     url  : sponsors
-  - title: Sponsor resources
-    url  : sponsor-resources
 - title: Program
   items:
   - title: Full program
@@ -16,8 +10,6 @@
     url: program/training
   - title: Allstars 2017
     url: program/allstars
-  - title: Call for volunteers
-    url: program/call-for-volunteers
   - title: University challenge
     url: program/university-challenge
   - title: Women in AppSec
