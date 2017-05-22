@@ -1,0 +1,404 @@
+- track: Developer
+  items:
+  - speaker: Johanna Curiel
+    slides :
+    movie  : 
+    title  : |
+      Developer Summit
+  - speaker: Spyros Gasteratos
+    slides :
+    movie  : 
+    title  : |
+      Developer Summit
+  - speaker: Nicole Becher
+    slides :
+    movie  : 
+    title  : |
+      Developer Summit
+  - speaker: Greg Anderson
+    slides :
+    movie  : 
+    title  : |
+      Making Vulnerability Management Suck Less with the new OWASP Project, DefectDojo
+  - speaker: Aaron Guzman
+    slides :
+    movie  : 
+    title  : |
+      Don’t Get Caught Em-bed:Finding and Preventing Vulns at its Lowest Level
+  - speaker: Michele Spagnuolo
+    slides :
+    movie  : 
+    title  : |
+      So we broke all CSPs... You won't guess what happened next!
+  - speaker: Nanne Baars
+    slides :
+    movie  : 
+    title  : |
+      Become a "Capture the Flag" Star: Part 1
+  - speaker: Nanne Baars
+    slides :
+    movie  : 
+    title  : |
+      Become a "Capture the Flag" Star: Part 2
+  - speaker: Kazuki Tsubo
+    slides :
+    movie  : 
+    title  : |
+      How to lead better security through our Mini Hardening project
+  - speaker: Viktorija Almazova
+    slides :
+    movie  : 
+    title  : |
+      Security Best practices in Azure Cloud
+  - speaker: Bernhard Mueller
+    slides :
+    movie  : 
+    title  : |
+      Fixing Mobile AppSec: The OWASP Mobile Project
+  - speaker: Katy Anton
+    slides :
+    movie  : 
+    title  : |
+      The path of secure software
+  - speaker: Frans Rosén
+    slides :
+    movie  : 
+    title  : |
+      DNS hijacking using cloud providers – no verification needed
+  - speaker: Achim D. Brucker
+    slides :
+    movie  : 
+    title  : |
+      Combining the Security Risks of Native and Web Development: Hybrid Apps
+- track: AllStars
+  items:
+  - speaker: Mario Heiderich
+    slides :
+    movie  : 
+    title  : |
+      Allstars Opening Note
+  - speaker: Mario Heiderich
+    slides :
+    movie  : 
+    title  : |
+      My Sweet Innocence Exposed  - Eleven Reasons why we will all miss you, "e"
+  - speaker: Michele Orrú
+    slides :
+    movie  : 
+    title  : |
+      Phishing your way through Two-Factor Authentication
+  - speaker: Hasherezade
+    slides :
+    movie  : 
+    title  : |
+      Wicked malware persistence methods
+  - speaker: Thomas Roth
+    slides :
+    movie  : 
+    title  : |
+      The hidden OS in smart phones
+  - speaker: Alex Inführ
+    slides :
+    movie  : 
+    title  : |
+      PDF - A file format that never stops giving
+  - speaker: Astera Schneeweisz
+    slides :
+    movie  : 
+    title  : |
+      Building security teams
+  - speaker: Gareth Heyes
+    slides :
+    movie  : 
+    title  : |
+      DOM based Angular sandbox escapes
+  - speaker: Filedescriptor
+    slides :
+    movie  : 
+    title  : |
+      Exploiting the unexploitable with lesser known browser tricks
+- track: Keynote
+  items:
+  - speaker: Shannon Lietz
+    slides :
+    movie  : 
+    title  : |
+      KeyNote: Shannon Lietz. The Gift of Feedback
+  - speaker: Brian Honan
+    slides :
+    movie  : 
+    title  : |
+      KeyNote: Brian Honan. Looking back to look ahead.
+  - speaker: Jeremiah Grossman
+    slides :
+    movie  : 
+    title  : |
+      KeyNote: Jeremiah Grossman. What the Kidnapping & Ransom Economy Teaches Us About Ransomware
+  - speaker: Jaya Baloo
+    slides :
+    movie  : 
+    title  : |
+      KeyNote: Jaya Baloo. Everything is Quantum!
+- track: DevSecOps
+  items:
+  - speaker: Helen Beal
+    slides :
+    movie  : 
+    title  : |
+      What is a DevSecOps Engineer? - Helen Beal (UK)
+  - speaker: Gareth Rushgrove
+    slides :
+    movie  : 
+    title  : |
+      Security and the Self-Contained Unit of Software - Gareth Rushgrove (UK)
+  - speaker: Correy Voo
+    slides :
+    movie  : 
+    title  : |
+      I am not a Robot: Job Security in a DevSecOps World - Correy Voo (UK)
+  - speaker: Theodoor Scholte
+    slides :
+    movie  : 
+    title  : |
+      Improving the security of Software Defined Infrastructures - Theodoor Scholte (Netherlands)
+  - speaker: Zane Lackey
+    slides :
+    movie  : 
+    title  : |
+      An SDLC for the DevSecOps Era - Zane Lackey (USA)
+  - speaker: Aaron Volkman
+    slides :
+    movie  : 
+    title  : |
+      Requirements Gathering for Successful DevSecOps Pipeline - Aaron Volkman and Hasan Yasar (USA_
+  - speaker: Elena Kravchenko
+    slides :
+    movie  : 
+    title  : |
+      Integrating Security in Agile Projects - Elena Kravchenko and Efrat Wasserman (Israel)
+  - speaker: Peter Chestna
+    slides :
+    movie  : 
+    title  : |
+      Secure DevOps Journey: A How to Guide - Peter Chestna (USA)
+  - speaker: Helen Beal
+    slides :
+    movie  : 
+    title  : |
+      DevSecOps Review: Take Aways from Today's Sessions - Mark Miller and Guests
+  - speaker: Shannon Lietz
+    slides :
+    movie  : 
+    title  : |
+      The DevSecOps Playbook from a Practitioner’s Perspective - Shannon Lietz (USA)
+  - speaker: Nigel Kersten
+    slides :
+    movie  : 
+    title  : |
+      DevSecOps: A Rose by Any Other Name Would Smell Sweeter - Nigel Kersten (USA)
+  - speaker: Tanya Janca
+    slides :
+    movie  : 
+    title  : |
+      Pushing Left Like a Boss: Application Security Foundations - Tanya Janca (Canada)
+  - speaker: Jack Mannino
+    slides :
+    movie  : 
+    title  : |
+      Security In The Land of Microservices - Jack Mannino (USA)
+  - speaker: Joseph Feiman
+    slides :
+    movie  : 
+    title  : |
+      Don’t Learn, Don’t See, Don’t Run: Application Security for DevSecOps - Joseph Feiman (USA)
+  - speaker: Irene Michlin
+    slides :
+    movie  : 
+    title  : |
+      Securing the Continuous Integration Process - Irene Michlin (UK)
+  - speaker: Dan Cornell
+    slides :
+    movie  : 
+    title  : |
+      Monitoring Attack Surface and Integrating Security into DevOps Pipelines - Dan Cornell (USA)
+  - speaker: Christoph Hartmann
+    slides :
+    movie  : 
+    title  : |
+      DevSec: Continuous Patch and Security Assessment with InSpec - Christoph Hartmann (Germany)
+  - speaker: Jeroen Willemsen
+    slides :
+    movie  : 
+    title  : |
+      Creating an AppSec Pipeline with Containers in a Week: How We Failed and Succeeded  - Jeroen Willemsen (Netherlands)
+  - speaker: Dan Cornell
+    slides :
+    movie  : 
+    title  : |
+      DevSecOps Roundup: An Overview of the Current State of DevSecOps - Mark Miller and Guests
+- track: Hacker
+  items:
+  - speaker: Philippe De Ryck
+    slides :
+    movie  : 
+    title  : |
+      Boosting the security of your Angular application
+  - speaker: Sebastian Lekies
+    slides :
+    movie  : 
+    title  : |
+      Don’t trust the DOM: Bypassing XSS mitigations via Script gadgets
+  - speaker: Steven Arzt
+    slides :
+    movie  : 
+    title  : |
+      The Key Under the Doormat: Design Flaws and Vulnerabilities in Android Password Manager Applications
+  - speaker: Björn Kimminich
+    slides :
+    movie  : 
+    title  : |
+      OWASP Juice Shop: Achieving sustainability for open source projects
+  - speaker: Jens Müller
+    slides :
+    movie  : 
+    title  : |
+      Printer Security
+  - speaker: Kev D'Arcy
+    slides :
+    movie  : 
+    title  : |
+      2017: Rise of the Machines
+  - speaker: Jakub Kaluzny
+    slides :
+    movie  : 
+    title  : |
+      Pentesting voice biometrics solutions
+  - speaker: Wojtek Dworakowski
+    slides :
+    movie  : 
+    title  : |
+      How to steal mobile wallet? – Mobile contactless payments apps attack and defense
+  - speaker: James Kettle
+    slides :
+    movie  : 
+    title  : |
+      Exploiting CORS Misconfigurations for Bitcoins and Bounties
+  - speaker: Luca Compagna
+    slides :
+    movie  : 
+    title  : |
+      Analysis and Detection of Authentication Cross-Site Request Forgery
+  - speaker: David Bohannon
+    slides :
+    movie  : 
+    title  : |
+      Preventing 10 Common Security Mistakes in the MEAN Stack
+  - speaker: Dennis Detering
+    slides :
+    movie  : 
+    title  : |
+      On the (in-)security of JavaScript Object Signing and Encryption
+- track: CISO
+  items:
+  - speaker: Sebastien Deleersnyder
+    slides :
+    movie  : 
+    title  : |
+      Embedding GDPR into the SDLC
+  - speaker: Tony UcedaVelez
+    slides :
+    movie  : 
+    title  : |
+      Threat Modeling w/ PASTA - Risk Centric Application Threat Modeling Case Studies
+  - speaker: Mike Shema
+    slides :
+    movie  : 
+    title  : |
+      The Flaws in Hordes, The Security in Crowds
+  - speaker: Or Katz
+    slides :
+    movie  : 
+    title  : |
+      The Dark Side of Search Engines Optimizations Campaigns
+  - speaker: Achim D. Brucker
+    slides :
+    movie  : 
+    title  : |
+      The evil friend in your browser
+  - speaker: Christian Folini
+    slides :
+    movie  : 
+    title  : |
+      Introducing the OWASP ModSecurity Core Rule Set 3.0
+  - speaker: Irene Michlin
+    slides :
+    movie  : 
+    title  : |
+      Incremental Threat Modelling
+  - speaker: Helen Bravo
+    slides :
+    movie  : 
+    title  : |
+      How to put the Sec in DevOps
+  - speaker: Erez Yalon
+    slides :
+    movie  : 
+    title  : |
+      Could a few lines of code F!#ck it all up!
+  - speaker: Gavin McWilliams
+    slides :
+    movie  : 
+    title  : |
+      An Introduction to Quantum-Safe Cryptography
+  - speaker: Robert C. Seacord
+    slides :
+    movie  : 
+    title  : |
+      Dangerous Optimizations and the Loss of Causality
+- track: Lightning Talk
+  items:
+  - speaker: Bastian Braun
+    slides :
+    movie  : 
+    title  : |
+      Bot or Not? - Mitigating Automated Threats to Web Applications
+  - speaker: Claire Burn
+    slides :
+    movie  : 
+    title  : |
+      Creating a buzz: Tales of building WordPress Honeypots at Scale
+  - speaker: Dave Anderson
+    slides :
+    movie  : 
+    title  : |
+      Is Software Eating Security? How disruption has hit Security & how to survive the "tidal forces".
+  - speaker: Ilya Nesterov
+    slides :
+    movie  : 
+    title  : |
+      CSP Pitfalls and Gotchas
+  - speaker: Gregory Shapiro
+    slides :
+    movie  : 
+    title  : |
+      Knowing Is Only Half the Battle
+  - speaker: David Johansson
+    slides :
+    movie  : 
+    title  : |
+      AngularJS + CSP: A Perfect Match or Unhappy Marriage?
+  - speaker: Jose Manuel Ortega
+    slides :
+    movie  : 
+    title  : |
+      Increasing web apps security with the power of http headers
+  - speaker: Siren Hofvander
+    slides :
+    movie  : 
+    title  : |
+      How to ensure that no one wants to work with you.  Mistakes that all security programs make, and how to correct them.
+  - speaker: Adrian Condon 
+    slides :
+    movie  : 
+    title  : |
+      The Next Generation in Biometrics - ECG
