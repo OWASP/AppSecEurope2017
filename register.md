@@ -5,10 +5,9 @@ title: Register
 
 ## Registration page
 
-The OWASP AppSec EU 2017 Belfast is now **open for registration**. 
+The OWASP AppSec EU 2017 Belfast is now **closed**.
+See you next year in Tel Aviv, Israel [https://2018.appsec.eu](https://2018.appsec.eu) 
 
-Follow this link to get to the registration form:
-[https://www.regonline.com/owaspappseceurope2017](https://www.regonline.com/owaspappseceurope2017)
 
 
 {% include pricing.md %}
