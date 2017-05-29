@@ -1,0 +1,13 @@
+---
+title: Slides and videos
+---
+<h1>{{page.title}}</h1>
+
+{% for track in site.data.presos %}
+	<h2>{{ track.track }}</h2>
+	<ul class="slidesandvideos">
+	{% for talk in track.items %}
+		<li><b>"{{talk.title}}", by {{talk.speaker}} - <a href="{{talk.slides}}">Slides</a> <a href="{{talk.movie}}">Movie</a></b></li>
+	{% endfor %}
+	</ul>
+{% endfor %}

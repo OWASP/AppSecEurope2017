@@ -2,17 +2,17 @@
   items:
   - speaker: Greg Anderson
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=Ajtgmmu78d0&index=10&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Making Vulnerability Management Suck Less with the new OWASP Project, DefectDojo
   - speaker: Aaron Guzman
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=Da1RVEml-3k&index=11&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Don’t Get Caught Em-bed:Finding and Preventing Vulns at its Lowest Level
   - speaker: Michele Spagnuolo
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=YBBqtrJmMRc&index=12&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       So we broke all CSPs... You won't guess what happened next!
   - speaker: Nanne Baars
@@ -27,32 +27,32 @@
       Become a "Capture the Flag" Star: Part 2
   - speaker: Kazuki Tsubo
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=IqQHMkALurI&index=37&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       How to lead better security through our Mini Hardening project
   - speaker: Viktorija Almazova
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=HJthzZO1D9A&index=38&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Security Best practices in Azure Cloud
   - speaker: Bernhard Mueller
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=THJVzf-u7Iw&index=39&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Fixing Mobile AppSec: The OWASP Mobile Project
   - speaker: Katy Anton
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=_dnyi0thm-A&index=40&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       The path of secure software
   - speaker: Frans Rosén
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=FXCzdWm2qDg&index=41&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       DNS hijacking using cloud providers – no verification needed
   - speaker: Achim D. Brucker
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=3r0u8YpiDTY&index=26&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Combining the Security Risks of Native and Web Development: Hybrid Apps
 - track: AllStars
@@ -106,238 +106,233 @@
   items:
   - speaker: Shannon Lietz
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=L7vuvUjeiSE&index=2&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       KeyNote: Shannon Lietz. The Gift of Feedback
   - speaker: Brian Honan
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=I1r8e4MGASA&index=9&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       KeyNote: Brian Honan. Looking back to look ahead.
   - speaker: Jeremiah Grossman
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=9Hmpv0qBJ0M&index=28&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       KeyNote: Jeremiah Grossman. What the Kidnapping & Ransom Economy Teaches Us About Ransomware
   - speaker: Jaya Baloo
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=a6uv_uXU9Pk&index=35&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       KeyNote: Jaya Baloo. Everything is Quantum!
 - track: DevSecOps
   items:
   - speaker: Helen Beal
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=p_wH0ZI5sPo&index=14&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      What is a DevSecOps Engineer? - Helen Beal (UK)
+      What is a DevSecOps Engineer?
   - speaker: Gareth Rushgrove
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=ZjB-RPVgFIM&index=15&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      Security and the Self-Contained Unit of Software - Gareth Rushgrove (UK)
+      Security and the Self-Contained Unit of Software
   - speaker: Correy Voo
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=NMwlV3CBzwk&index=16&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      I am not a Robot: Job Security in a DevSecOps World - Correy Voo (UK)
+      I am not a Robot: Job Security in a DevSecOps World
   - speaker: Theodoor Scholte
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=n3rNyPHUZT4&index=17&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      Improving the security of Software Defined Infrastructures - Theodoor Scholte (Netherlands)
+      Improving the security of Software Defined Infrastructures
   - speaker: Zane Lackey
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=ORtYTDSmi4U&index=18&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      An SDLC for the DevSecOps Era - Zane Lackey (USA)
-  - speaker: Aaron Volkman
+      An SDLC for the DevSecOps Era
+  - speaker: Aaron Volkman and Hasan Yasar
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=GaIiEK2tN5s&index=19&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      Requirements Gathering for Successful DevSecOps Pipeline - Aaron Volkman and Hasan Yasar (USA_
-  - speaker: Elena Kravchenko
+      Requirements Gathering for Successful DevSecOps Pipeline
+  - speaker: Elena Kravchenko and Efrat Wasserman
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=O3GUzpxU9FM&index=20&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      Integrating Security in Agile Projects - Elena Kravchenko and Efrat Wasserman (Israel)
+      Integrating Security in Agile Projects - 
   - speaker: Peter Chestna
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=kArPka7r9Jo&index=21&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      Secure DevOps Journey: A How to Guide - Peter Chestna (USA)
-  - speaker: Helen Beal
-    slides :
-    movie  : 
-    title  : |
-      DevSecOps Review: Take Aways from Today's Sessions - Mark Miller and Guests
+      Secure DevOps Journey: A How to Guide
   - speaker: Shannon Lietz
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=DOxLio0Sy5Q&index=43&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      The DevSecOps Playbook from a Practitioner’s Perspective - Shannon Lietz (USA)
+      The DevSecOps Playbook from a Practitioner’s Perspective
   - speaker: Nigel Kersten
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=EJmTdtbaT88&index=44&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      DevSecOps: A Rose by Any Other Name Would Smell Sweeter - Nigel Kersten (USA)
+      DevSecOps: A Rose by Any Other Name Would Smell Sweeter
   - speaker: Tanya Janca
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=mPTmuaC2lOI&index=45&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      Pushing Left Like a Boss: Application Security Foundations - Tanya Janca (Canada)
+      Pushing Left Like a Boss: Application Security Foundations 
   - speaker: Jack Mannino
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=JRmWlLY8MGE&index=46&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      Security In The Land of Microservices - Jack Mannino (USA)
+      Security In The Land of Microservices
   - speaker: Joseph Feiman
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=a9HBedVuB7Y&index=47&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      Don’t Learn, Don’t See, Don’t Run: Application Security for DevSecOps - Joseph Feiman (USA)
+      Don’t Learn, Don’t See, Don’t Run: Application Security for DevSecOps
   - speaker: Irene Michlin
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=0UX8fE17moU&index=48&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      Securing the Continuous Integration Process - Irene Michlin (UK)
+      Securing the Continuous Integration Process
   - speaker: Dan Cornell
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=n0lnJvrzJWg&index=49&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      Monitoring Attack Surface and Integrating Security into DevOps Pipelines - Dan Cornell (USA)
+      Monitoring Attack Surface and Integrating Security into DevOps Pipelines
   - speaker: Christoph Hartmann
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=Uc941CUWedc&index=50&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      DevSec: Continuous Patch and Security Assessment with InSpec - Christoph Hartmann (Germany)
+      DevSec: Continuous Patch and Security Assessment with InSpec
   - speaker: Jeroen Willemsen
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=3PgWM8qwWas&index=51&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      Creating an AppSec Pipeline with Containers in a Week: How We Failed and Succeeded  - Jeroen Willemsen (Netherlands)
+      Creating an AppSec Pipeline with Containers in a Week: How We Failed and Succeeded
   - speaker: Dan Cornell
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=KjjznjL84qc&index=52&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
-      DevSecOps Roundup: An Overview of the Current State of DevSecOps - Mark Miller and Guests
+      DevSecOps Roundup: An Overview of the Current State of DevSecOps
 - track: Hacker
   items:
   - speaker: Philippe De Ryck
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=wAS2M_VrigQ&index=3&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Boosting the security of your Angular application
   - speaker: Sebastian Lekies
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=p07acPBi-qw&index=4&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Don’t trust the DOM: Bypassing XSS mitigations via Script gadgets
   - speaker: Steven Arzt
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=m8G4KPgX4bU&index=5&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       The Key Under the Doormat: Design Flaws and Vulnerabilities in Android Password Manager Applications
   - speaker: Björn Kimminich
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=bOSdFnFAYNc&index=6&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       OWASP Juice Shop: Achieving sustainability for open source projects
-  - speaker: Jens Müller
+  - speaker: Jens Müller and Vladislav Mladenov
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=W-bF0twTxUw&index=7&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Printer Security
-  - speaker: Kev D'Arcy
+  - speaker: Kev D'Arcy, Nicholas Raite and Rohini Sulatycki
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=qptrw4Usbhk&index=8&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       2017: Rise of the Machines
   - speaker: Jakub Kaluzny
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=_XzFfbUS_kw&index=29&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Pentesting voice biometrics solutions
-  - speaker: Wojtek Dworakowski
+  - speaker: Wojtek Dworakowski and Slawomir Jasek
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=VI7HVDy_bYU&index=30&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       How to steal mobile wallet? – Mobile contactless payments apps attack and defense
   - speaker: James Kettle
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=wgkj4ZgxI4c&index=31&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Exploiting CORS Misconfigurations for Bitcoins and Bounties
   - speaker: Luca Compagna
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=i0Cm67zC9Gs&index=32&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Analysis and Detection of Authentication Cross-Site Request Forgery
   - speaker: David Bohannon
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=HPq7g_eUlco&index=33&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Preventing 10 Common Security Mistakes in the MEAN Stack
   - speaker: Dennis Detering
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=bW5pS4e_MX8&index=34&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       On the (in-)security of JavaScript Object Signing and Encryption
 - track: CISO
   items:
-  - speaker: Sebastien Deleersnyder
+  - speaker: Sebastien Deleersnyder and Siebe De Roovere
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=mzoShGGAFLo&index=22&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Embedding GDPR into the SDLC
   - speaker: Tony UcedaVelez
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=hHIgW8ZUi4A&index=23&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Threat Modeling w/ PASTA - Risk Centric Application Threat Modeling Case Studies
   - speaker: Mike Shema
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=_fi1UWXbHac&index=24&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       The Flaws in Hordes, The Security in Crowds
   - speaker: Or Katz
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=MtTOeY2Udw0&index=25&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       The Dark Side of Search Engines Optimizations Campaigns
   - speaker: Achim D. Brucker
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=3r0u8YpiDTY&index=26&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       The evil friend in your browser
   - speaker: Christian Folini
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=eO9gBAmKS58&index=27&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Introducing the OWASP ModSecurity Core Rule Set 3.0
   - speaker: Irene Michlin
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=WePVoeYrhpg&index=53&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Incremental Threat Modelling
   - speaker: Helen Bravo
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=QuzysykRqZ4&index=54&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       How to put the Sec in DevOps
   - speaker: Erez Yalon
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=6vQuWK_jGEU&index=55&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Could a few lines of code F!#ck it all up!
   - speaker: Gavin McWilliams
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=dgst7NPKtA4&index=56&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       An Introduction to Quantum-Safe Cryptography
   - speaker: Robert C. Seacord
     slides :
-    movie  : 
+    movie  : "https://www.youtube.com/watch?v=cjQQCrQ_wvs&index=57&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Dangerous Optimizations and the Loss of Causality
 - track: Lightning Talk

@@ -4,6 +4,8 @@
     url  : sponsors
 - title: Program
   items:
+  - title: Slides and videos
+    url: slides-and-videos
   - title: Full program
     url: program/
   - title: Training program
