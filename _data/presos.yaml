@@ -1,42 +1,37 @@
 - track: Developer
   items:
   - speaker: Greg Anderson
-    slides :
+    slides : "Making Vulnerability Management Suck Less with the new OWASP Project, DefectDojo - Greg Anderson - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=Ajtgmmu78d0&index=10&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Making Vulnerability Management Suck Less with the new OWASP Project, DefectDojo
   - speaker: Aaron Guzman
-    slides :
+    slides : "Don’t Get Caught Em-bedFinding and Preventing Vulns at its Lowest Level - Aaron Guzma- OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=Da1RVEml-3k&index=11&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Don’t Get Caught Em-bed:Finding and Preventing Vulns at its Lowest Level
-  - speaker: Michele Spagnuolo
-    slides :
+  - speaker: Michele Spagnuolo and Lukas Weichselbaum
+    slides : "So we broke all CSPs... You won't guess what happened next! - Michele Spagnuolo and Lukas Weichselbaum - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=YBBqtrJmMRc&index=12&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       So we broke all CSPs... You won't guess what happened next!
-  - speaker: Nanne Baars
-    slides :
+  - speaker: Bruce Mayhew, Nanne Baars and Jason White
+    slides : "Become a Capture the Flag Star - Bruce Mayhew, Nanne Baars and Jason White - OWASP_AppSec-Eu_2017.pdf"
     movie  : 
     title  : |
-      Become a "Capture the Flag" Star: Part 1
-  - speaker: Nanne Baars
-    slides :
-    movie  : 
-    title  : |
-      Become a "Capture the Flag" Star: Part 2
+      Become a "Capture the Flag" Star
   - speaker: Kazuki Tsubo
-    slides :
+    slides : "How to lead better security through our Mini Hardening project - Kazuki Tsubo - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=IqQHMkALurI&index=37&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       How to lead better security through our Mini Hardening project
   - speaker: Viktorija Almazova
-    slides :
+    slides : "Security Best practices in Azure Cloud - Viktorija Almazova.pdf"
     movie  : "https://www.youtube.com/watch?v=HJthzZO1D9A&index=38&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Security Best practices in Azure Cloud
-  - speaker: Bernhard Mueller
-    slides :
+  - speaker: Bernhard Mueller and Sven Schleier
+    slides : "Fixing Mobile AppSec The OWASP Mobile Project- Bernhard Mueller and Sven Schleier - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=THJVzf-u7Iw&index=39&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Fixing Mobile AppSec: The OWASP Mobile Project
@@ -46,12 +41,12 @@
     title  : |
       The path of secure software
   - speaker: Frans Rosén
-    slides :
+    slides : "DNS hijacking using cloud providers – no verification needed - Frans Rosen - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=FXCzdWm2qDg&index=41&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       DNS hijacking using cloud providers – no verification needed
-  - speaker: Achim D. Brucker
-    slides :
+  - speaker: Achim D. Brucker and Michael Herzberg
+    slides : "Combining the Security Risks of Native and Web Development Hybrid Apps  - Achim D. Brucker and Michael Herzberg - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=3r0u8YpiDTY&index=26&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Combining the Security Risks of Native and Web Development: Hybrid Apps
@@ -127,37 +122,37 @@
 - track: DevSecOps
   items:
   - speaker: Helen Beal
-    slides :
+    slides : "What is a DevSecOps Engineer_ - Helen Beal - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=p_wH0ZI5sPo&index=14&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       What is a DevSecOps Engineer?
   - speaker: Gareth Rushgrove
-    slides :
+    slides : 
     movie  : "https://www.youtube.com/watch?v=ZjB-RPVgFIM&index=15&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Security and the Self-Contained Unit of Software
   - speaker: Correy Voo
-    slides :
+    slides : "I am not a Robot_ Job Security in a DevSecOps World - Correy Voo - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=NMwlV3CBzwk&index=16&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       I am not a Robot: Job Security in a DevSecOps World
   - speaker: Theodoor Scholte
-    slides :
+    slides : "Improving the security of Software Defined Infrastructures - Theodoor Scholte - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=n3rNyPHUZT4&index=17&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Improving the security of Software Defined Infrastructures
   - speaker: Zane Lackey
-    slides :
+    slides : "An SDLC for the DevSecOps Era - Zane Lackey - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=ORtYTDSmi4U&index=18&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       An SDLC for the DevSecOps Era
   - speaker: Aaron Volkman and Hasan Yasar
-    slides :
+    slides : 
     movie  : "https://www.youtube.com/watch?v=GaIiEK2tN5s&index=19&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Requirements Gathering for Successful DevSecOps Pipeline
   - speaker: Elena Kravchenko and Efrat Wasserman
-    slides :
+    slides : "Integrating Security in Agile Projects - Elena Kravchenko and Efrat Wasserman - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=O3GUzpxU9FM&index=20&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Integrating Security in Agile Projects - 
@@ -167,52 +162,52 @@
     title  : |
       Secure DevOps Journey: A How to Guide
   - speaker: Shannon Lietz
-    slides :
+    slides : "The DevSecOps Playbook from a Practitioner’s Perspective - Shannon Lietz - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=DOxLio0Sy5Q&index=43&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       The DevSecOps Playbook from a Practitioner’s Perspective
   - speaker: Nigel Kersten
-    slides :
+    slides : "DevSecOps_ A Rose by Any Other Name Would Smell Sweeter - Nigel Kersten - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=EJmTdtbaT88&index=44&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       DevSecOps: A Rose by Any Other Name Would Smell Sweeter
   - speaker: Tanya Janca
-    slides :
+    slides : "Pushing Left Like a Boss_ Application Security Foundations - Tanya Janca - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=mPTmuaC2lOI&index=45&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Pushing Left Like a Boss: Application Security Foundations 
   - speaker: Jack Mannino
-    slides :
+    slides : "Security In The Land of Microservices - Jack Mannino - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=JRmWlLY8MGE&index=46&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Security In The Land of Microservices
   - speaker: Joseph Feiman
-    slides :
+    slides : "Don’t Learn, Don’t See, Don’t Run_ Application Security for DevSecOps - Joseph Feiman - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=a9HBedVuB7Y&index=47&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Don’t Learn, Don’t See, Don’t Run: Application Security for DevSecOps
   - speaker: Irene Michlin
-    slides :
+    slides : "Securing the Continuous Integration Process - Irene Michlin  - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=0UX8fE17moU&index=48&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Securing the Continuous Integration Process
   - speaker: Dan Cornell
-    slides :
+    slides : "Monitoring Attack Surface and Integrating Security into DevOps Pipelines - Dan Cornell - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=n0lnJvrzJWg&index=49&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Monitoring Attack Surface and Integrating Security into DevOps Pipelines
   - speaker: Christoph Hartmann
-    slides :
+    slides : "DevSec_ Continuous Patch and Security Assessment with InSpec - Christoph Hartmann - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=Uc941CUWedc&index=50&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       DevSec: Continuous Patch and Security Assessment with InSpec
   - speaker: Jeroen Willemsen
-    slides :
+    slides : "Creating an AppSec Pipeline with Containers in a Week_ How We Failed and Succeeded - Jeroen Willemsen  - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=3PgWM8qwWas&index=51&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Creating an AppSec Pipeline with Containers in a Week: How We Failed and Succeeded
   - speaker: Dan Cornell
-    slides :
+    slides : 
     movie  : "https://www.youtube.com/watch?v=KjjznjL84qc&index=52&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       DevSecOps Roundup: An Overview of the Current State of DevSecOps
@@ -223,8 +218,8 @@
     movie  : "https://www.youtube.com/watch?v=wAS2M_VrigQ&index=3&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Boosting the security of your Angular application
-  - speaker: Sebastian Lekies
-    slides :
+  - speaker: Sebastian Lekies, Krzystof Kotowicz and Eduardo Vela Nava
+    slides : "Don’t trust the DOM Bypassing XSS mitigations via Script gadgets - Sebastian Lekies, Krzystof Kotowicz and Eduardo Vela Nava - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=p07acPBi-qw&index=4&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Don’t trust the DOM: Bypassing XSS mitigations via Script gadgets
@@ -234,22 +229,22 @@
     title  : |
       The Key Under the Doormat: Design Flaws and Vulnerabilities in Android Password Manager Applications
   - speaker: Björn Kimminich
-    slides :
+    slides : "OWASP Juice Shop Achieving sustainability for open source projects - Björn Kimminich - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=bOSdFnFAYNc&index=6&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       OWASP Juice Shop: Achieving sustainability for open source projects
   - speaker: Jens Müller and Vladislav Mladenov
-    slides :
+    slides : "Printer Security - Jens Mueller and Juraj Somorovsky - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=W-bF0twTxUw&index=7&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Printer Security
   - speaker: Kev D'Arcy, Nicholas Raite and Rohini Sulatycki
-    slides :
+    slides : "2017 Rise of the Machines - Rohini Sulatiycki, Kevi D’Arcy and Nick Raite - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=qptrw4Usbhk&index=8&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       2017: Rise of the Machines
   - speaker: Jakub Kaluzny
-    slides :
+    slides : 
     movie  : "https://www.youtube.com/watch?v=_XzFfbUS_kw&index=29&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Pentesting voice biometrics solutions
@@ -259,12 +254,12 @@
     title  : |
       How to steal mobile wallet? – Mobile contactless payments apps attack and defense
   - speaker: James Kettle
-    slides :
+    slides : "Exploiting CORS Misconfigurations for Bitcoins and Bounties  - James Kettle - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=wgkj4ZgxI4c&index=31&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Exploiting CORS Misconfigurations for Bitcoins and Bounties
   - speaker: Luca Compagna
-    slides :
+    slides : 
     movie  : "https://www.youtube.com/watch?v=i0Cm67zC9Gs&index=32&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Analysis and Detection of Authentication Cross-Site Request Forgery
@@ -281,17 +276,17 @@
 - track: CISO
   items:
   - speaker: Sebastien Deleersnyder and Siebe De Roovere
-    slides :
+    slides : "Embedding GDPR into the SDLC - Sebastien Deleersnyder and Siebe De Roovere - - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=mzoShGGAFLo&index=22&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Embedding GDPR into the SDLC
   - speaker: Tony UcedaVelez
-    slides :
+    slides : "Threat Modeling with PASTA - Risk Centric Application Threat Modeling Case Studies - Tony UcedaVélez - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=hHIgW8ZUi4A&index=23&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Threat Modeling w/ PASTA - Risk Centric Application Threat Modeling Case Studies
   - speaker: Mike Shema
-    slides :
+    slides : 
     movie  : "https://www.youtube.com/watch?v=_fi1UWXbHac&index=24&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       The Flaws in Hordes, The Security in Crowds
@@ -301,37 +296,37 @@
     title  : |
       The Dark Side of Search Engines Optimizations Campaigns
   - speaker: Achim D. Brucker
-    slides :
+    slides : "The Evil Friend in Your Browse - Achim D. Brucker and Michael Herzberg - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=3r0u8YpiDTY&index=26&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       The evil friend in your browser
   - speaker: Christian Folini
-    slides :
+    slides : "Introducing the OWASP ModSecurity Core Rule Set 3.0 - Christian Folini - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=eO9gBAmKS58&index=27&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Introducing the OWASP ModSecurity Core Rule Set 3.0
   - speaker: Irene Michlin
-    slides :
+    slides : "Incremental Threat Modelling - Irene Michlin - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=WePVoeYrhpg&index=53&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Incremental Threat Modelling
   - speaker: Helen Bravo
-    slides :
+    slides : "How to put the Sec in DevOps - Helen Bravo - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=QuzysykRqZ4&index=54&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       How to put the Sec in DevOps
   - speaker: Erez Yalon
-    slides :
+    slides : "Could a few lines of code F!#ck it all up! - Erez Yalon - OWASP_AppSec-Eu_2017.pdf"
     movie  : "https://www.youtube.com/watch?v=6vQuWK_jGEU&index=55&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Could a few lines of code F!#ck it all up!
   - speaker: Gavin McWilliams
-    slides :
+    slides : 
     movie  : "https://www.youtube.com/watch?v=dgst7NPKtA4&index=56&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       An Introduction to Quantum-Safe Cryptography
   - speaker: Robert C. Seacord
-    slides :
+    slides : 
     movie  : "https://www.youtube.com/watch?v=cjQQCrQ_wvs&index=57&list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp"
     title  : |
       Dangerous Optimizations and the Loss of Causality
